@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b28e81f613dadf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы для подготовки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidianMel/Rest API/REST API.md",
+                "file": "Вопросы для подготовки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidianMel/Rest API/REST API.md",
+                "file": "Вопросы для подготовки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidianMel/Rest API/REST API.md"
+                "file": "Вопросы для подготовки.md"
               }
             }
           }
@@ -158,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,13 +182,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6c081149e0131372",
+  "active": "0b28e81f613dadf4",
   "lastOpenFiles": [
-    "obsidianMel/Протоколы/HTTP.md",
+    "obsidianMel/Java/Коллекции/HashMap.md",
+    "obsidianMel/Java/Коллекции/Иерархия коллекций.md",
+    "Pasted image 20240329142401.png",
     "Вопросы для подготовки.md",
+    "obsidianMel/Java/Коллекции",
+    "obsidianMel/Java",
+    "obsidianMel/gRPC- изучить.md",
     "obsidianMel/Rest API/REST API.md",
-    "obsidianMel/Rest API",
+    "obsidianMel/Протоколы/HTTP.md",
     "obsidianMel/Протоколы/ПРОТОКОЛЫ TCP-IP ПРОСТЫМ ЯЗЫКОМ.md",
+    "obsidianMel/Rest API",
     "obsidianMel/Протоколы",
     "obsidianMel/ELK/ELK.md",
     "obsidianMel/ELK",
@@ -203,11 +220,6 @@
     "obsidianMel/Программирование/Ветвление-выборка.md",
     "obsidianMel/Программирование/Validation.md",
     "obsidianMel/Программирование/Test Containers.md",
-    "obsidianMel/Программирование/Swagger-ui.md",
-    "obsidianMel/Программирование/Spring.md",
-    "obsidianMel/Программирование/Security",
-    "obsidianMel/Программирование/PostgreSQL.md",
-    "obsidianMel/MelObsidian/Паттерны",
-    "obsidianMel/Программирование"
+    "obsidianMel/Программирование/Security"
   ]
 }
