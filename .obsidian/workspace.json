@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gRPC- изучить.md",
+                "file": "Hibernate/Hibernate cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gRPC- изучить.md",
+                "file": "Hibernate/Hibernate cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gRPC- изучить.md",
+                "file": "Hibernate/Hibernate cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gRPC- изучить.md"
+                "file": "Hibernate/Hibernate cache.md"
               }
             }
           }
@@ -184,6 +184,18 @@
   },
   "active": "0b28e81f613dadf4",
   "lastOpenFiles": [
+    "Hibernate/Наследование.md",
+    "Hibernate/Hibernate cache.md",
+    "Кеш/кеширование.md",
+    "Hibernate",
+    "NOSQL/Обзор NOSQL баз данных.md",
+    "Кеш",
+    "SQL/Шардирование и репликация.md",
+    "NOSQL",
+    "SQL/Индексы.md",
+    "Вопросы для подготовки.md",
+    "gRPC- изучить.md",
+    "Pasted image 20240329142401.png",
     "SQL/Нормализация БД.md",
     "SQL/ACID.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
@@ -208,18 +220,6 @@
     "Java/Память в JAVA",
     "Java/Big O Notation.md",
     "Java/Коллекции/Подробный разбор класса HashMap.md",
-    "Java/Коллекции/HashMap.md",
-    "Вопросы для подготовки.md",
-    "Java/Коллекции/Иерархия коллекций.md",
-    "Pasted image 20240329142401.png",
-    "Java/Коллекции",
-    "Java",
-    "gRPC- изучить.md",
-    "Rest API/REST API.md",
-    "Протоколы/HTTP.md",
-    "Протоколы/ПРОТОКОЛЫ TCP-IP ПРОСТЫМ ЯЗЫКОМ.md",
-    "Rest API",
-    "Протоколы",
-    "ELK/ELK.md"
+    "Java/Коллекции"
   ]
 }
