@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianMel/Проектирование/CAP теорема.md",
+                "file": "Проектирование/CAP теорема.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianMel/Проектирование/Принципы проектирования.md",
+                "file": "Проектирование/Принципы проектирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianMel/Rest API/REST API.md",
+                "file": "Rest API/REST API.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianMel/SQL/Нормализация БД.md",
+                "file": "gRPC- изучить.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidianMel/SQL/Нормализация БД.md",
+                "file": "gRPC- изучить.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidianMel/SQL/Нормализация БД.md",
+                "file": "gRPC- изучить.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidianMel/SQL/Нормализация БД.md"
+                "file": "gRPC- изучить.md"
               }
             }
           }
@@ -184,42 +184,42 @@
   },
   "active": "0b28e81f613dadf4",
   "lastOpenFiles": [
-    "obsidianMel/SQL/ACID.md",
-    "obsidianMel/SQL/Нормализация БД.md",
-    "obsidianMel/Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
-    "obsidianMel/SQL",
-    "obsidianMel/Spring/Большая статья про Spring- всё обо всем.md",
-    "obsidianMel/Spring/Видео про работу спринга - потрошитель.md",
-    "obsidianMel/Spring/Transactional.md",
-    "obsidianMel/Java/Многопоточка/video.md",
-    "obsidianMel/Spring",
-    "obsidianMel/Java/ClassLoaders.md",
-    "obsidianMel/Java/Многопоточка",
-    "obsidianMel/Java/Exceptions/Классы исключений.md",
-    "obsidianMel/Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
-    "obsidianMel/Java/Exceptions",
-    "obsidianMel/Java/StreamAPI/Без названия.md",
-    "obsidianMel/Java/Память в JAVA/еще про мусор.md",
+    "SQL/Нормализация БД.md",
+    "SQL/ACID.md",
+    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
+    "SQL",
+    "Spring/Большая статья про Spring- всё обо всем.md",
+    "Spring/Видео про работу спринга - потрошитель.md",
+    "Spring/Transactional.md",
+    "Java/Многопоточка/video.md",
+    "Spring",
+    "Java/ClassLoaders.md",
+    "Java/Многопоточка",
+    "Java/Exceptions/Классы исключений.md",
+    "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
+    "Java/Exceptions",
+    "Java/StreamAPI/Без названия.md",
+    "Java/Память в JAVA/еще про мусор.md",
     "obsidianMel/Java/StreamAPI/Без названияTБез названияБез названия.md",
-    "obsidianMel/Java/StreamAPI",
-    "obsidianMel/Java/Память в JAVA/GC.md",
-    "obsidianMel/Java/Память в JAVA/Распределение памяти в JVM.md",
-    "obsidianMel/Java/Generics.md",
-    "obsidianMel/Java/Память в JAVA",
-    "obsidianMel/Java/Big O Notation.md",
-    "obsidianMel/Java/Коллекции/Подробный разбор класса HashMap.md",
-    "obsidianMel/Java/Коллекции/HashMap.md",
+    "Java/StreamAPI",
+    "Java/Память в JAVA/GC.md",
+    "Java/Память в JAVA/Распределение памяти в JVM.md",
+    "Java/Generics.md",
+    "Java/Память в JAVA",
+    "Java/Big O Notation.md",
+    "Java/Коллекции/Подробный разбор класса HashMap.md",
+    "Java/Коллекции/HashMap.md",
     "Вопросы для подготовки.md",
-    "obsidianMel/Java/Коллекции/Иерархия коллекций.md",
+    "Java/Коллекции/Иерархия коллекций.md",
     "Pasted image 20240329142401.png",
-    "obsidianMel/Java/Коллекции",
-    "obsidianMel/Java",
-    "obsidianMel/gRPC- изучить.md",
-    "obsidianMel/Rest API/REST API.md",
-    "obsidianMel/Протоколы/HTTP.md",
-    "obsidianMel/Протоколы/ПРОТОКОЛЫ TCP-IP ПРОСТЫМ ЯЗЫКОМ.md",
-    "obsidianMel/Rest API",
-    "obsidianMel/Протоколы",
-    "obsidianMel/ELK/ELK.md"
+    "Java/Коллекции",
+    "Java",
+    "gRPC- изучить.md",
+    "Rest API/REST API.md",
+    "Протоколы/HTTP.md",
+    "Протоколы/ПРОТОКОЛЫ TCP-IP ПРОСТЫМ ЯЗЫКОМ.md",
+    "Rest API",
+    "Протоколы",
+    "ELK/ELK.md"
   ]
 }
