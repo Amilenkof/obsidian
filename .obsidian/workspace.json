@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "obsidianMel/Java/ClassLoaders.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "obsidianMel/Java/ClassLoaders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "obsidianMel/Java/ClassLoaders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы для подготовки.md"
+                "file": "obsidianMel/Java/ClassLoaders.md"
               }
             }
           }
@@ -184,10 +184,24 @@
   },
   "active": "0b28e81f613dadf4",
   "lastOpenFiles": [
+    "obsidianMel/Java/Exceptions/Классы исключений.md",
+    "obsidianMel/Java/ClassLoaders.md",
+    "obsidianMel/Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
+    "obsidianMel/Java/Exceptions",
+    "obsidianMel/Java/StreamAPI/Без названия.md",
+    "obsidianMel/Java/Память в JAVA/еще про мусор.md",
+    "obsidianMel/Java/StreamAPI/Без названияTБез названияБез названия.md",
+    "obsidianMel/Java/StreamAPI",
+    "obsidianMel/Java/Память в JAVA/GC.md",
+    "obsidianMel/Java/Память в JAVA/Распределение памяти в JVM.md",
+    "obsidianMel/Java/Generics.md",
+    "obsidianMel/Java/Память в JAVA",
+    "obsidianMel/Java/Big O Notation.md",
+    "obsidianMel/Java/Коллекции/Подробный разбор класса HashMap.md",
     "obsidianMel/Java/Коллекции/HashMap.md",
+    "Вопросы для подготовки.md",
     "obsidianMel/Java/Коллекции/Иерархия коллекций.md",
     "Pasted image 20240329142401.png",
-    "Вопросы для подготовки.md",
     "obsidianMel/Java/Коллекции",
     "obsidianMel/Java",
     "obsidianMel/gRPC- изучить.md",
@@ -203,23 +217,9 @@
     "obsidianMel/Проектирование/CAP теорема.md",
     "obsidianMel/Проектирование",
     "obsidianMel/Книги",
-    "Без названия",
     "obsidianMel/Паттерны/GOF паттерны.md",
     "obsidianMel/Паттерны/Паттерны распределенных систем.md",
-    "obsidianMel/Паттерны",
     "obsidianMel/Программирование/Security/Конфигурация Security.md",
-    "obsidianMel/Программирование/Security/Security.md",
-    "obsidianMel/MelObsidian/Паттерны/Паттерны распределенных систем.md",
-    "obsidianMel/MelObsidian/Паттерны/GOF паттерны.md",
-    "obsidianMel/Программирование/Циклы.md",
-    "obsidianMel/Программирование/Функции.md",
-    "obsidianMel/Программирование/Тестирование.md",
-    "obsidianMel/Программирование/Примитивные типы данных.md",
-    "obsidianMel/Программирование/Приведение типов.md",
-    "obsidianMel/Программирование/Настройки, горячии клавиши Idea.md",
-    "obsidianMel/Программирование/Ветвление-выборка.md",
-    "obsidianMel/Программирование/Validation.md",
-    "obsidianMel/Программирование/Test Containers.md",
-    "obsidianMel/Программирование/Security"
+    "obsidianMel/Программирование/Security/Security.md"
   ]
 }
