@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "obsidianMel/Проектирование/CAP теорема.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7bb0b8a83a845ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidianMel/Проектирование/Принципы проектирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c081149e0131372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidianMel/Rest API/REST API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "obsidianMel/Rest API/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "obsidianMel/Rest API/REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы для подготовки.md"
+                "file": "obsidianMel/Rest API/REST API.md"
               }
             }
           }
@@ -146,17 +171,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "77856ae78ce8bbcf",
+  "active": "6c081149e0131372",
   "lastOpenFiles": [
-    "Книги",
-    "Без названия",
-    "Паттерны/GOF паттерны.md",
-    "Паттерны/Паттерны распределенных систем.md",
-    "Принципы проектирования.md",
-    "Микросервисы против монолитной архитектуры.md",
+    "obsidianMel/Протоколы/HTTP.md",
     "Вопросы для подготовки.md",
-    "CAP теорема.md",
-    "Паттерны",
+    "obsidianMel/Rest API/REST API.md",
+    "obsidianMel/Rest API",
+    "obsidianMel/Протоколы/ПРОТОКОЛЫ TCP-IP ПРОСТЫМ ЯЗЫКОМ.md",
+    "obsidianMel/Протоколы",
+    "obsidianMel/ELK/ELK.md",
+    "obsidianMel/ELK",
+    "obsidianMel/Проектирование/Микросервисы против монолитной архитектуры.md",
+    "obsidianMel/Проектирование/Принципы проектирования.md",
+    "obsidianMel/Проектирование/CAP теорема.md",
+    "obsidianMel/Проектирование",
+    "obsidianMel/Книги",
+    "Без названия",
+    "obsidianMel/Паттерны/GOF паттерны.md",
+    "obsidianMel/Паттерны/Паттерны распределенных систем.md",
+    "obsidianMel/Паттерны",
     "obsidianMel/Программирование/Security/Конфигурация Security.md",
     "obsidianMel/Программирование/Security/Security.md",
     "obsidianMel/MelObsidian/Паттерны/Паттерны распределенных систем.md",
@@ -174,15 +207,7 @@
     "obsidianMel/Программирование/Spring.md",
     "obsidianMel/Программирование/Security",
     "obsidianMel/Программирование/PostgreSQL.md",
-    "obsidianMel/Программирование/Java.md",
-    "obsidianMel/Программирование/Hibernate.md",
-    "obsidianMel/Программирование/H2.md",
     "obsidianMel/MelObsidian/Паттерны",
-    "obsidianMel/Программирование",
-    "obsidianMel/КНИГА Head_First_паттерны проектирования.pdf",
-    "obsidianMel/MelObsidian",
-    "obsidianMel/BlaBLa",
-    "obsidianMel",
-    "Денчик/Security"
+    "obsidianMel/Программирование"
   ]
 }

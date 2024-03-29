@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#9347d1",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Bahnschrift",
+  "baseFontSize": 18,
+  "textFontFamily": "Ebrima"
 }
