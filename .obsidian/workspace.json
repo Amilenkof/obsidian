@@ -49,14 +49,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hibernate/Hibernate cache.md",
+                "file": "Вопросы для подготовки.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a7c6f1292f9a5d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hibernate/Hibernate cache.md",
+                "file": "Вопросы для подготовки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hibernate/Hibernate cache.md",
+                "file": "Вопросы для подготовки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hibernate/Hibernate cache.md"
+                "file": "Вопросы для подготовки.md"
               }
             }
           }
@@ -182,10 +192,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0b28e81f613dadf4",
+  "active": "6a7c6f1292f9a5d7",
   "lastOpenFiles": [
-    "Hibernate/Наследование.md",
     "Hibernate/Hibernate cache.md",
+    "Hibernate/Наследование.md",
     "Кеш/кеширование.md",
     "Hibernate",
     "NOSQL/Обзор NOSQL баз данных.md",
