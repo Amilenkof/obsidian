@@ -59,9 +59,11 @@
             "id": "6a7c6f1292f9a5d7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Java/Многопоточка/video.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "Java/Многопоточка/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "Java/Многопоточка/video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы для подготовки.md"
+                "file": "Java/Многопоточка/video.md"
               }
             }
           }
@@ -194,8 +196,12 @@
   },
   "active": "6a7c6f1292f9a5d7",
   "lastOpenFiles": [
-    "Hibernate/Hibernate cache.md",
+    "Паттерны/GOF паттерны.md",
+    "Вопросы для подготовки.md",
+    "Java/Память в JAVA/еще про мусор.md",
+    "Java/Коллекции/Иерархия коллекций.md",
     "Hibernate/Наследование.md",
+    "Hibernate/Hibernate cache.md",
     "Кеш/кеширование.md",
     "Hibernate",
     "NOSQL/Обзор NOSQL баз данных.md",
@@ -203,7 +209,6 @@
     "SQL/Шардирование и репликация.md",
     "NOSQL",
     "SQL/Индексы.md",
-    "Вопросы для подготовки.md",
     "gRPC- изучить.md",
     "Pasted image 20240329142401.png",
     "SQL/Нормализация БД.md",
@@ -221,15 +226,12 @@
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "Java/Exceptions",
     "Java/StreamAPI/Без названия.md",
-    "Java/Память в JAVA/еще про мусор.md",
     "obsidianMel/Java/StreamAPI/Без названияTБез названияБез названия.md",
     "Java/StreamAPI",
     "Java/Память в JAVA/GC.md",
     "Java/Память в JAVA/Распределение памяти в JVM.md",
     "Java/Generics.md",
     "Java/Память в JAVA",
-    "Java/Big O Notation.md",
-    "Java/Коллекции/Подробный разбор класса HashMap.md",
     "Java/Коллекции"
   ]
 }
