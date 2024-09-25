@@ -83,9 +83,11 @@
             "id": "714758b3678228e3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "SOAP/Отличия SOAP и REST.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
