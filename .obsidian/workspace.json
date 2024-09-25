@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOAP/Отличия SOAP и REST.md",
+                "file": "Java/java io.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOAP/Отличия SOAP и REST.md",
+                "file": "Java/java io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOAP/Отличия SOAP и REST.md",
+                "file": "Java/java io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOAP/Отличия SOAP и REST.md"
+                "file": "Java/java io.md"
               }
             }
           }
@@ -220,8 +220,9 @@
   },
   "active": "714758b3678228e3",
   "lastOpenFiles": [
-    "SOAP/SOAP API.md",
     "SOAP/Отличия SOAP и REST.md",
+    "Java/java io.md",
+    "SOAP/SOAP API.md",
     "SOAP",
     "Java/Многопоточка/video.md",
     "Паттерны/GOF паттерны.md",
@@ -255,7 +256,6 @@
     "Java/StreamAPI/Без названия.md",
     "obsidianMel/Java/StreamAPI/Без названияTБез названияБез названия.md",
     "Java/StreamAPI",
-    "Java/Память в JAVA/GC.md",
     "Java/Память в JAVA"
   ]
 }
