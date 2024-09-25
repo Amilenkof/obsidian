@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "714758b3678228e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,7 +216,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "76b948d76637f7a5",
+  "active": "714758b3678228e3",
   "lastOpenFiles": [
     "SOAP/SOAP API.md",
     "SOAP/Отличия SOAP и REST.md",
