@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Основные команды.md",
+                "file": "Паттерны/GOF паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные команды"
+              "title": "GOF паттерны"
             }
           }
         ],
@@ -292,18 +292,19 @@
   },
   "active": "7c86c9960fbacb2a",
   "lastOpenFiles": [
+    "Паттерны/Паттерны распределенных систем.md",
+    "Книги/КНИГА Head_First_паттерны проектирования.pdf",
+    "Паттерны/GOF паттерны.md",
     "Linux/Основные команды.md",
     "Linux",
     "Spring/cglib.md",
     "полезные команды.md",
     "kubernetes",
     "SOAP/SOAP API.md",
-    "Книги/КНИГА Head_First_паттерны проектирования.pdf",
     "SOAP/Отличия SOAP и REST.md",
     "Java/java io.md",
     "SOAP",
     "Java/Многопоточка/video.md",
-    "Паттерны/GOF паттерны.md",
     "Вопросы для подготовки.md",
     "Java/Память в JAVA/еще про мусор.md",
     "Java/Коллекции/Иерархия коллекций.md",
@@ -326,8 +327,6 @@
     "Spring/Видео про работу спринга - потрошитель.md",
     "Spring/Transactional.md",
     "Spring",
-    "Java/ClassLoaders.md",
-    "Java/Многопоточка",
-    "Java/Exceptions/Классы исключений.md"
+    "Java/Многопоточка"
   ]
 }
