@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "Основные команды"
             }
+          },
+          {
+            "id": "7c86c9960fbacb2a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -275,7 +288,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "14cce3cec0fec4fd",
+  "active": "7c86c9960fbacb2a",
   "lastOpenFiles": [
     "Linux/Основные команды.md",
     "Linux",
