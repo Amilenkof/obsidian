@@ -123,12 +123,14 @@
             "id": "14cce3cec0fec4fd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Linux/Основные команды.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Основные команды"
             }
           }
         ],
@@ -204,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Основные команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Основные команды"
             }
           },
           {
@@ -222,11 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Основные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Основные команды"
             }
           },
           {
@@ -247,9 +251,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Linux/Основные команды.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Основные команды"
             }
           }
         ]
@@ -271,6 +277,8 @@
   },
   "active": "14cce3cec0fec4fd",
   "lastOpenFiles": [
+    "Linux/Основные команды.md",
+    "Linux",
     "Spring/cglib.md",
     "полезные команды.md",
     "kubernetes",
@@ -305,8 +313,6 @@
     "Spring",
     "Java/ClassLoaders.md",
     "Java/Многопоточка",
-    "Java/Exceptions/Классы исключений.md",
-    "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
-    "Java/Exceptions"
+    "Java/Exceptions/Классы исключений.md"
   ]
 }
