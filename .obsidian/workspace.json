@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны/GOF паттерны.md",
+                "file": "Запросы бд/технические запросы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GOF паттерны"
+              "title": "технические запросы"
             }
           }
         ],
@@ -292,13 +292,15 @@
   },
   "active": "7c86c9960fbacb2a",
   "lastOpenFiles": [
+    "полезные команды.md",
+    "Запросы бд/технические запросы.md",
+    "Запросы бд",
+    "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf",
-    "Паттерны/GOF паттерны.md",
     "Linux/Основные команды.md",
     "Linux",
     "Spring/cglib.md",
-    "полезные команды.md",
     "kubernetes",
     "SOAP/SOAP API.md",
     "SOAP/Отличия SOAP и REST.md",
@@ -326,7 +328,6 @@
     "Spring/Большая статья про Spring- всё обо всем.md",
     "Spring/Видео про работу спринга - потрошитель.md",
     "Spring/Transactional.md",
-    "Spring",
-    "Java/Многопоточка"
+    "Spring"
   ]
 }
