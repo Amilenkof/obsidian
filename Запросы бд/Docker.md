@@ -1,4 +1,4 @@
-1. Postgres + pgadmin
+1. **Postgres + pgadmin**
    version: "3.9"  
 services:  
   postgres:  
@@ -47,7 +47,7 @@ networks:
 пароль admin
 
 /****************************************************************************************************************************************************************************
-2. MSSQL 
+2. **MSSQL** 
    version: "3.9"  
 services:  
   mssql:  
@@ -84,7 +84,7 @@ networks:
 
 
 
-2. ORACLE 
+2. **ORACLE** 
    version: "3.9"
 services:
   oracle:
@@ -119,7 +119,7 @@ networks:
     
 - Пароль: `oracle`
 
-4 KAFKA+ZOOKEEPER+KOWL
+**4 KAFKA+ZOOKEEPER+KOWL**
 
 version: '2'  
 services:  
