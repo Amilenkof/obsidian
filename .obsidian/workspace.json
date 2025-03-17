@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Многопоточка/video.md",
+                "file": "Java/ООП и SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "video"
+              "title": "ООП и SOLID"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Основные команды.md",
+                "file": "Java/ООП и SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Основные команды"
+              "title": "Обратные ссылки для ООП и SOLID"
             }
           },
           {
@@ -277,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,12 +289,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4c687a3054db65f1",
+  "active": "7c86c9960fbacb2a",
   "lastOpenFiles": [
+    "Java/Многопоточка/video.md",
+    "Java/ООП и SOLID.md",
     "Java/Коллекции/HashMap.md",
     "Java/Коллекции/Иерархия коллекций.md",
     "Java/Коллекции/Подробный разбор класса HashMap.md",
-    "Java/Многопоточка/video.md",
     "Java/ClassLoaders.md",
     "Java/Generics.md",
     "Java/java io.md",
@@ -326,7 +326,6 @@
     "gRPC- изучить.md",
     "Pasted image 20240329142401.png",
     "SQL/Нормализация БД.md",
-    "SQL/ACID.md",
     "SQL",
     "Spring"
   ]
