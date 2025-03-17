@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/технические запросы.md",
+                "file": "Java/Многопоточка/video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "технические запросы"
+              "title": "video"
             }
           }
         ],
@@ -290,10 +290,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7c86c9960fbacb2a",
+  "active": "4c687a3054db65f1",
   "lastOpenFiles": [
-    "полезные команды.md",
+    "Java/Коллекции/HashMap.md",
+    "Java/Коллекции/Иерархия коллекций.md",
+    "Java/Коллекции/Подробный разбор класса HashMap.md",
+    "Java/Многопоточка/video.md",
+    "Java/ClassLoaders.md",
+    "Java/Generics.md",
+    "Java/java io.md",
     "Запросы бд/технические запросы.md",
+    "полезные команды.md",
     "Запросы бд",
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
@@ -304,12 +311,9 @@
     "kubernetes",
     "SOAP/SOAP API.md",
     "SOAP/Отличия SOAP и REST.md",
-    "Java/java io.md",
     "SOAP",
-    "Java/Многопоточка/video.md",
     "Вопросы для подготовки.md",
     "Java/Память в JAVA/еще про мусор.md",
-    "Java/Коллекции/Иерархия коллекций.md",
     "Hibernate/Наследование.md",
     "Hibernate/Hibernate cache.md",
     "Кеш/кеширование.md",
@@ -323,11 +327,7 @@
     "Pasted image 20240329142401.png",
     "SQL/Нормализация БД.md",
     "SQL/ACID.md",
-    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "SQL",
-    "Spring/Большая статья про Spring- всё обо всем.md",
-    "Spring/Видео про работу спринга - потрошитель.md",
-    "Spring/Transactional.md",
     "Spring"
   ]
 }
