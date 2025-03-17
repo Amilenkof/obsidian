@@ -85,4 +85,36 @@ networks:
 
 
 2. ORACLE 
-   
+   version: "3.9"
+services:
+  oracle:
+    container_name: oracle_container
+    image: gvenzl/oracle-xe:latest  # Образ Oracle Express Edition
+    environment:
+      ORACLE_PASSWORD: "oracle"     # Пароль для пользователя SYS и SYSTEM
+      APP_USER: "testuser"           # Дополнительный пользователь (опционально)
+      APP_USER_PASSWORD: "testpass"  # Пароль для дополнительного пользователя (опционально)
+    ports:
+      - "1521:1521"                 # Порт для подключения
+    volumes:
+      - oracle-data:/opt/oracle/oradata  # Том для хранения данных
+    networks:
+      - oracle-network
+
+volumes:
+  oracle-data:
+    driver: local
+
+networks:
+  oracle-network:
+    driver: bridge
+    ![[Pasted image 20250317161852.png]]
+    - Хост: `localhost`
+    
+- Порт: `1521`
+    
+- Служба: `XE`
+    
+- Пользователь: SYSTEM
+    
+- Пароль: `oracle`
