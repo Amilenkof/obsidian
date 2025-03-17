@@ -46,4 +46,43 @@ networks:
 ![[Pasted image 20250317160709.png]]
 пароль admin
 
-/*****************************************************************************************************************
+/****************************************************************************************************************************************************************************
+2. MSSQL 
+   version: "3.9"  
+services:  
+  mssql:  
+    container_name: mssql_container  
+    image: mcr.microsoft.com/mssql/server:2022-latest  
+    environment:  
+      SA_PASSWORD: "YourStrong!Passw0rd"  # Пароль для пользователя SA  
+      ACCEPT_EULA: "Y"                    # Принятие лицензионного соглашения  
+      MSSQL_PID: "Express"                 # Версия SQL Server (Express, Developer, Enterprise)  
+    ports:  
+      - "1433:1433"                        # Порт для подключения  
+    volumes:  
+      - mssql-data:/var/opt/mssql         # Том для хранения данных  
+    networks:  
+      - mssql-network  
+  
+volumes:  
+  mssql-data:  
+    driver: local  
+  
+networks:  
+  mssql-network:  
+    driver: bridge
+    
+    
+![[Pasted image 20250317160951.png]]
+- Хост: `localhost`
+    
+- Порт: `1433`
+    
+- Пользователь: `SA`
+    
+- Пароль: `YourStrong!Passw0rd`
+
+
+
+2. ORACLE 
+   
