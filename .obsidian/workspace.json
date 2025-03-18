@@ -139,16 +139,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/Docker.md",
+                "file": "Java/конфигурация/Конфигурация для запуска maven команд.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Конфигурация для запуска maven команд"
+            }
+          },
+          {
+            "id": "943a46561df3603a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/конфигурация/Конфигурация для запуска maven команд.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Конфигурация для запуска maven команд"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -221,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы бд/Docker.md",
+                "file": "Java/конфигурация/Конфигурация для запуска maven команд.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Docker"
+              "title": "Обратные ссылки для Конфигурация для запуска maven команд"
             }
           },
           {
@@ -289,8 +303,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7c86c9960fbacb2a",
+  "active": "943a46561df3603a",
   "lastOpenFiles": [
+    "Java/конфигурация/Конфигурация VM OPTIONS.md",
+    "Java/конфигурация/Конфигурация для запуска maven команд.md",
+    "Java/конфигурация",
+    "Запросы бд/Docker.md",
     "Pasted image 20250317173259.png",
     "config 1.yaml",
     "config.yaml",
@@ -300,7 +318,6 @@
     "Pasted image 20250317160428.png",
     "Pasted image 20250317160406.png",
     "Запросы бд/проливка дб менеджер.md",
-    "Запросы бд/Docker.md",
     "Java/ООП и SOLID.md",
     "Java/Многопоточка/video.md",
     "Java/Коллекции/HashMap.md",
@@ -328,10 +345,7 @@
     "Hibernate/Hibernate cache.md",
     "Кеш/кеширование.md",
     "Hibernate",
-    "NOSQL/Обзор NOSQL баз данных.md",
     "Кеш",
-    "SQL/Шардирование и репликация.md",
-    "NOSQL",
     "Pasted image 20240329142401.png"
   ]
 }
