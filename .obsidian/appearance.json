@@ -1,7 +1,9 @@
 {
   "accentColor": "#9347d1",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "Bahnschrift",
-  "baseFontSize": 18,
-  "textFontFamily": "Ebrima"
+  "baseFontSize": 20,
+  "textFontFamily": "Ebrima",
+  "cssTheme": "GitHub Theme",
+  "baseFontSizeAction": true
 }
