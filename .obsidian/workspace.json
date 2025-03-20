@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/конфигурация/Конфигурация для запуска maven команд.md",
+                "file": "Java/конфигурация/Конфигурация VM OPTIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Конфигурация для запуска maven команд"
+              "title": "Конфигурация VM OPTIONS"
             }
           }
         ],
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/конфигурация/Конфигурация для запуска maven команд.md",
+                "file": "Java/конфигурация/Конфигурация VM OPTIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Конфигурация для запуска maven команд"
+              "title": "Обратные ссылки для Конфигурация VM OPTIONS"
             }
           },
           {
@@ -305,10 +305,10 @@
   },
   "active": "943a46561df3603a",
   "lastOpenFiles": [
+    "Java/конфигурация/Конфигурация для запуска maven команд.md",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
     "Java/ClassLoaders.md",
     "Java/ООП и SOLID.md",
-    "Java/конфигурация/Конфигурация для запуска maven команд.md",
     "Java/конфигурация",
     "Запросы бд/Docker.md",
     "Pasted image 20250317173259.png",
