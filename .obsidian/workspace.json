@@ -153,16 +153,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/конфигурация/Конфигурация VM OPTIONS.md",
+                "file": "Java/ООП и SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Конфигурация VM OPTIONS"
+              "title": "ООП и SOLID"
+            }
+          },
+          {
+            "id": "ce6e4d623d6a1d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOLID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -235,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/конфигурация/Конфигурация VM OPTIONS.md",
+                "file": "SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Конфигурация VM OPTIONS"
+              "title": "Обратные ссылки для SOLID"
             }
           },
           {
@@ -303,12 +317,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "943a46561df3603a",
+  "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
-    "Java/конфигурация/Конфигурация для запуска maven команд.md",
-    "Java/конфигурация/Конфигурация VM OPTIONS.md",
-    "Java/ClassLoaders.md",
     "Java/ООП и SOLID.md",
+    "SOLID.md",
+    "Java/конфигурация/Конфигурация VM OPTIONS.md",
+    "Java/конфигурация/Конфигурация для запуска maven команд.md",
+    "Java/ClassLoaders.md",
     "Java/конфигурация",
     "Запросы бд/Docker.md",
     "Pasted image 20250317173259.png",
