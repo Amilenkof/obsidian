@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/проливка дб менеджер.md",
+                "file": "Запросы бд/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "проливка дб менеджер"
+              "title": "Docker"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы бд/проливка дб менеджер.md",
+                "file": "Запросы бд/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для проливка дб менеджер"
+              "title": "Обратные ссылки для Docker"
             }
           },
           {
@@ -319,13 +319,15 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "Запросы бд/технические запросы.md",
+    "Запросы бд/Docker.md",
+    "Запросы бд/проливка дб менеджер.md",
     "SOLID.md",
     "Java/ООП и SOLID.md",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
     "Java/конфигурация/Конфигурация для запуска maven команд.md",
     "Java/ClassLoaders.md",
     "Java/конфигурация",
-    "Запросы бд/Docker.md",
     "Pasted image 20250317173259.png",
     "config 1.yaml",
     "config.yaml",
@@ -334,14 +336,12 @@
     "Pasted image 20250317160709.png",
     "Pasted image 20250317160428.png",
     "Pasted image 20250317160406.png",
-    "Запросы бд/проливка дб менеджер.md",
     "Java/Многопоточка/video.md",
     "Java/Коллекции/HashMap.md",
     "Java/Коллекции/Иерархия коллекций.md",
     "Java/Коллекции/Подробный разбор класса HashMap.md",
     "Java/Generics.md",
     "Java/java io.md",
-    "Запросы бд/технические запросы.md",
     "полезные команды.md",
     "Запросы бд",
     "Паттерны/GOF паттерны.md",
