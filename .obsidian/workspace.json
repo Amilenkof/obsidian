@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/проливка дб менеджер.md",
+                "file": "Запросы бд/технические запросы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "проливка дб менеджер"
+              "title": "технические запросы"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы бд/проливка дб менеджер.md",
+                "file": "Запросы бд/технические запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для проливка дб менеджер"
+              "title": "Обратные ссылки для технические запросы"
             }
           },
           {
@@ -319,9 +319,9 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "Запросы бд/проливка дб менеджер.md",
     "Запросы бд/Docker.md",
     "Запросы бд/технические запросы.md",
-    "Запросы бд/проливка дб менеджер.md",
     "SOLID.md",
     "Java/ООП и SOLID.md",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
