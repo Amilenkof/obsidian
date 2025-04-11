@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/технические запросы.md",
+                "file": "IDEA/Заполнение кода при постановки точки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "технические запросы"
+              "title": "Заполнение кода при постановки точки"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы бд/технические запросы.md",
+                "file": "IDEA/Заполнение кода при постановки точки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для технические запросы"
+              "title": "Обратные ссылки для Заполнение кода при постановки точки"
             }
           },
           {
@@ -319,9 +319,12 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "Pasted image 20250411210309.png",
+    "Запросы бд/технические запросы.md",
+    "IDEA/Заполнение кода при постановки точки.md",
+    "IDEA",
     "Запросы бд/проливка дб менеджер.md",
     "Запросы бд/Docker.md",
-    "Запросы бд/технические запросы.md",
     "SOLID.md",
     "Java/ООП и SOLID.md",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
@@ -357,10 +360,7 @@
     "Вопросы для подготовки.md",
     "Java/Память в JAVA/еще про мусор.md",
     "Hibernate/Наследование.md",
-    "Hibernate/Hibernate cache.md",
-    "Кеш/кеширование.md",
     "Hibernate",
-    "Кеш",
     "Pasted image 20240329142401.png"
   ]
 }
