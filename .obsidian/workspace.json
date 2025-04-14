@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Transactional своими словами.md",
+                "file": "IDEA/Заполнение кода при постановки точки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transactional своими словами"
+              "title": "Заполнение кода при постановки точки"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Transactional своими словами.md",
+                "file": "IDEA/Заполнение кода при постановки точки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Transactional своими словами"
+              "title": "Обратные ссылки для Заполнение кода при постановки точки"
             }
           },
           {
@@ -319,8 +319,8 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
-    "Spring/Transactional.md",
     "Spring/Transactional своими словами.md",
+    "Spring/Transactional.md",
     "IDEA/Заполнение кода при постановки точки.md",
     "Pasted image 20250411210309.png",
     "Запросы бд/технические запросы.md",
