@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEA/Заполнение кода при постановки точки.md",
+                "file": "kubernetes/Команды KubeCtl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заполнение кода при постановки точки"
+              "title": "Команды KubeCtl"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDEA/Заполнение кода при постановки точки.md",
+                "file": "kubernetes/Команды KubeCtl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Заполнение кода при постановки точки"
+              "title": "Обратные ссылки для Команды KubeCtl"
             }
           },
           {
@@ -319,9 +319,10 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "IDEA/Заполнение кода при постановки точки.md",
+    "kubernetes/Команды KubeCtl.md",
     "Spring/Transactional своими словами.md",
     "Spring/Transactional.md",
-    "IDEA/Заполнение кода при постановки точки.md",
     "Pasted image 20250411210309.png",
     "Запросы бд/технические запросы.md",
     "IDEA",
@@ -360,7 +361,6 @@
     "SOAP/Отличия SOAP и REST.md",
     "SOAP",
     "Вопросы для подготовки.md",
-    "Java/Память в JAVA/еще про мусор.md",
     "Hibernate",
     "Pasted image 20240329142401.png"
   ]
