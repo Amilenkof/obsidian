@@ -174,9 +174,21 @@
               "icon": "lucide-file",
               "title": "Docker"
             }
+          },
+          {
+            "id": "1a926926253ca571",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -249,7 +261,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы бд/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +270,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Docker"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -317,7 +328,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ce6e4d623d6a1d1a",
+  "active": "1a926926253ca571",
   "lastOpenFiles": [
     "Запросы бд/технические запросы.md",
     "Запросы бд/проливка дб менеджер.md",
