@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/Docker.md",
+                "file": "Репликация в БД/Создание реплик БД Master-slave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Создание реплик БД Master-slave"
             }
           }
         ],
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы бд/Docker.md",
+                "file": "Репликация в БД/Создание реплик БД Master-slave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Docker"
+              "title": "Обратные ссылки для Создание реплик БД Master-slave"
             }
           },
           {
@@ -333,6 +333,9 @@
   },
   "active": "1a926926253ca571",
   "lastOpenFiles": [
+    "Запросы бд/Docker.md",
+    "Репликация в БД/Создание реплик БД Master-slave.md",
+    "Репликация в БД",
     "Запросы бд/проливка дб менеджер.md",
     "Запросы бд/технические запросы.md",
     "kubernetes/Проперть для дебага.md",
@@ -342,7 +345,6 @@
     "Spring/Transactional.md",
     "Pasted image 20250411210309.png",
     "IDEA",
-    "Запросы бд/Docker.md",
     "SOLID.md",
     "Java/ООП и SOLID.md",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
@@ -373,9 +375,7 @@
     "Spring/cglib.md",
     "kubernetes",
     "SOAP/SOAP API.md",
-    "SOAP/Отличия SOAP и REST.md",
     "SOAP",
-    "Hibernate",
     "Pasted image 20240329142401.png"
   ]
 }
