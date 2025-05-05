@@ -179,12 +179,14 @@
             "id": "1a926926253ca571",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Запросы бд/Docker.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Docker"
             }
           }
         ],
@@ -261,6 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Запросы бд/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Docker"
             }
           },
           {
@@ -330,8 +333,8 @@
   },
   "active": "1a926926253ca571",
   "lastOpenFiles": [
-    "Запросы бд/технические запросы.md",
     "Запросы бд/проливка дб менеджер.md",
+    "Запросы бд/технические запросы.md",
     "kubernetes/Проперть для дебага.md",
     "kubernetes/Команды KubeCtl.md",
     "IDEA/Заполнение кода при постановки точки.md",
