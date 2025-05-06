@@ -76,11 +76,11 @@ PostgreSQL хранит WAL-файлы в каталоге pg_wal (ранее н
 ℹ️ В новых версиях PostgreSQL (13+) вместо wal_keep_segments используется wal_keep_size (например, wal_keep_size = 1GB).
 
 
-Поменять сетевые настройки, файл `pg_hba.conf`
+Поменять сетевые настройки, файл `pg_hba.conf` Эта настройка ставится только в MASTER 
 ```
 host    replication     replicator      172.22.0.0/16             md5
 ```
-
+для того чтобы указать  ipAdress нужно выполнить команды и посмотреть на каком IP развернулась master реплика его и указать в `pg_hba.conf`
 Узнать адрес подсети
 ```
 docker network ls                # список, в моем случае pg-replication_pgnet
