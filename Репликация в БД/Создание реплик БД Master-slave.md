@@ -5,7 +5,7 @@ version: '3.8'
 services:  
   pgmaster:  
     container_name: "pgmaster"  
-    image: "postgres"  
+    image: postgres:13.3  
     networks:  
       - pgnet  
     ports:  
@@ -13,15 +13,12 @@ services:
     environment:  
       POSTGRES_USER: postgres     # Логин  
       POSTGRES_PASSWORD: 1111     # Пароль  
-#      POSTGRES_DB: postgres      # Название БД  
-    volumes:  
-      - "./volumes/pgmaster/:/var/lib/postgresql/data"  # Том для данных <папка_на_хосте>:<папка_в_контейнере>  
-#      - ./init.sql:/docker-entrypoint-initdb.d/init.sql  # Скрипт инициализации (опционально)  
-#    restart: unless-stopped       # Автоперезапуск  
-  
+    #      POSTGRES_DB: postgres      # Название БД    volumes:  
+      - "./volumes/pgmaster13/:/var/lib/postgresql/data"  # Том для данных <папка_на_хосте>:<папка_в_контейнере>  
+  #      - ./init.sql:/docker-entrypoint-initdb.d/init.sql  # Скрипт инициализации (опционально)  #    restart: unless-stopped       # Автоперезапуск  
   pgslave:  
     container_name: "pgslave"  
-    image: "postgres"  
+    image: postgres:13.3  
     networks:  
       - pgnet  
     ports:  
@@ -30,11 +27,11 @@ services:
       POSTGRES_USER: postgres  
       POSTGRES_PASSWORD: 1111  
     volumes:  
-      - "./volumes/pgslave/:/var/lib/postgresql/data"  
+      - "./volumes/pgslave13/:/var/lib/postgresql/data"  
   
   pgslaveasync:  
     container_name: "pgslaveasync"  
-    image: "postgres"  
+    image: postgres:13.3  
     networks:  
       - pgnet  
     ports:  
@@ -43,17 +40,32 @@ services:
       POSTGRES_USER: postgres  
       POSTGRES_PASSWORD: 1111  
     volumes:  
-      - "./volumes/pgslaveasync/:/var/lib/postgresql/data"  
+      - "./volumes/pgslaveasync13/:/var/lib/postgresql/data"  
   
 networks:  
   pgnet:                          # отдельная сеть для контейнеров
 ```
 
-Для реплицирования необходимо задать ряд настроек, буду рассматривать на примере созданных БД из docker-compose выше. Файл `postgresql.conf`
+Для реплицирования необходимо задать ряд настроек, буду рассматривать на примере созданных БД из docker-compose выше. Файл `postgresql.conf` у каждого образа свой путь, файлы лежат в настройках проекта (путь ./volumes/pgslaveasync13/)
 ```
 wal_level = replica       # minimal, replica, or logical
-max_wal_senders = 4       # количество потоков, для поиграть хватит и 4 
+max_wal_senders = 4       # **Максимальное количество одновременных подключений для репликации.**, для поиграть хватит и 4 
 ```
+
+WAL файлы это место куда postgres пишет данные после чего он их переносит в бд, в случае реплик 
+еще настройки:
+--- archive_mode = on - Включает архивирование WAL-логов.
+--- archive_command = 'cp %p /oracle/pg_data/archive/%f'   - Команда для копирования WAL-файлов в архив.
+%p — полный путь к WAL-файлу (например, /var/lib/postgresql/12/main/pg_wal/0000000100000001000000AB).
+%f — только имя файла (например, 0000000100000001000000AB).
+В данном случае WAL-файлы копируются в /oracle/pg_data/archive/.
+
+---4. wal_keep_segments = 50 Сколько WAL-сегментов хранить в pg_wal для репликации.
+PostgreSQL хранит WAL-файлы в каталоге pg_wal (ранее назывался pg_xlog).
+Если реплика отстаёт, она может запросить старые WAL-файлы у мастера.
+50 означает, что будут храниться последние 50 сегментов (каждый обычно по 16 МБ, итого ~800 МБ).
+ℹ️ В новых версиях PostgreSQL (13+) вместо wal_keep_segments используется wal_keep_size (например, wal_keep_size = 1GB).
+
 
 Поменять сетевые настройки, файл `pg_hba.conf`
 ```
