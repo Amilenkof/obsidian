@@ -48,7 +48,16 @@ networks:
 
 Для реплицирования необходимо задать ряд настроек, буду рассматривать на примере созданных БД из docker-compose выше. Файл `postgresql.conf` у каждого образа свой путь, файлы лежат в настройках проекта (путь ./volumes/pgslaveasync13/)
 ```
-wal_level = replica       # minimal, replica, or logical
+wal_level = replica       # minimal, replica, or logical (- **Уровень детализации информации в WAL.**
+    
+    - `replica` — записывается достаточно данных для репликации и PITR.
+        
+    - Альтернативы:
+        
+        - `minimal` — только для аварийного восстановления (без репликации).
+            
+        - `logical` — добавляет данные для логической репликации.)
+        
 max_wal_senders = 4       # **Максимальное количество одновременных подключений для репликации.**, для поиграть хватит и 4 
 ```
 
@@ -83,14 +92,14 @@ docker network inspect pg-replication_pgnet         # нужен Subnet
 docker exec -it pgmaster bash      # переход в контейнер
 psql -U postgres                   # подключение к PostgreSQL через CLI-утилиту
 CREATE ROLE replicator WITH LOGIN PASSWORD '1111';      # создание роли
-ALTER USER replicator WITH REPLICATION;            # выдать права для репдикации
+ALTER USER replicator WITH REPLICATION;            # выдать права для репликации
 \du            # посмотреть все роли
 \q             # выход
 ```
 
 Обычно создавая новую реплику ей подкидывают backup, если слейв начинает репликацию "с нуля" (без предварительного бэкапа), он должен запросить все WAL-записи с самого начала истории базы данных. Это может занять много времени и ресурсов. Бэкап позволяет слейву начать репликацию с текущего состояния мастера, минимизируя задержки. + WAL лог конечный(циклический), соответственно чтобы были все данные без бэкапа не обойтись.
 ```
-pg_basebackup -h pgmaster -D /pgslave -U replicator -v -P --wal-method=stream
+pg_basebackup -h pgmaster13 -D /pgslave13 -U replicator -v -P --wal-method=stream
 ```
 
 Для того чтобы узел считал себя репликой, ему нужно подложить файлик `standby.signal` (пустой файл, служит маркером), так же нужно добавить строчку в `postgresql.conf`
