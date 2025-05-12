@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven/BOM.md",
+                "file": "Maven/Анализ зависимостей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOM"
+              "title": "Анализ зависимостей"
             }
           }
         ],
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven/BOM.md",
+                "file": "Maven/Анализ зависимостей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для BOM"
+              "title": "Обратные ссылки для Анализ зависимостей"
             }
           },
           {
@@ -347,8 +347,9 @@
   },
   "active": "63a650651f45aae2",
   "lastOpenFiles": [
-    "Maven/scope зависимостей в Maven.md",
     "Maven/BOM.md",
+    "Maven/Анализ зависимостей.md",
+    "Maven/scope зависимостей в Maven.md",
     "Pasted image 20250512140408.png",
     "Pasted image 20250512140214.png",
     "Java/SOLID.md",
