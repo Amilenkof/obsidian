@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scope зависимостей в Maven.md",
+                "file": "Maven/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scope зависимостей в Maven"
+              "title": "Без названия"
             }
           }
         ],
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scope зависимостей в Maven.md",
+                "file": "Maven/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для scope зависимостей в Maven"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -347,12 +347,16 @@
   },
   "active": "63a650651f45aae2",
   "lastOpenFiles": [
+    "Java/SOLID.md",
+    "Maven/Без названия.md",
+    "Linux/Основные команды.md",
+    "Maven/scope зависимостей в Maven.md",
+    "Pasted image 20250512135117.png",
     "Pasted image 20250512134522.png",
     "Pasted image 20250512134217.png",
     "Pasted image 20250512133822.png",
     "Maven",
     "Репликация в БД/Создание реплик БД Master-slave.md",
-    "scope зависимостей в Maven.md",
     "Запросы бд/Docker.md",
     "Запросы бд/проливка дб менеджер.md",
     "Pasted image 20240329142401.png",
@@ -365,7 +369,6 @@
     "Spring/Transactional.md",
     "Pasted image 20250411210309.png",
     "IDEA",
-    "SOLID.md",
     "Java/ООП и SOLID.md",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
     "Java/конфигурация/Конфигурация для запуска maven команд.md",
@@ -377,8 +380,6 @@
     "Pasted image 20250317161852.png",
     "Pasted image 20250317160951.png",
     "Pasted image 20250317160709.png",
-    "Pasted image 20250317160428.png",
-    "Pasted image 20250317160406.png",
     "Java/Многопоточка/video.md",
     "Java/Коллекции/HashMap.md",
     "Java/Коллекции/Иерархия коллекций.md",
@@ -390,7 +391,6 @@
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf",
-    "Linux/Основные команды.md",
     "Linux",
     "kubernetes"
   ]
