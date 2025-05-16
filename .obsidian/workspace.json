@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven/Общее про Мавен.md",
+                "file": "Паттерны/GOF паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Общее про Мавен"
+              "title": "GOF паттерны"
             }
           }
         ],
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven/Общее про Мавен.md",
+                "file": "Паттерны/GOF паттерны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Общее про Мавен"
+              "title": "Обратные ссылки для GOF паттерны"
             }
           },
           {
@@ -347,6 +347,7 @@
   },
   "active": "63a650651f45aae2",
   "lastOpenFiles": [
+    "Maven/Общее про Мавен.md",
     "Pasted image 20250512145556.png",
     "Pasted image 20250512145411.png",
     "Pasted image 20250512144747.png",
@@ -356,12 +357,10 @@
     "Pasted image 20250512144142.png",
     "Maven/Анализ зависимостей.md",
     "Maven/BOM.md",
-    "Maven/Общее про Мавен.md",
     "Pasted image 20250512142532.png",
     "Pasted image 20250512142001.png",
     "Maven/scope зависимостей в Maven.md",
     "Pasted image 20250512140408.png",
-    "Pasted image 20250512140214.png",
     "Java/SOLID.md",
     "Linux/Основные команды.md",
     "Maven",
