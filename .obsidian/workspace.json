@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/Docker.md",
+                "file": "SoapUI/Настройка SoapUI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Настройка SoapUI"
             }
           },
           {
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "SoapUI/Настройка SoapUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды"
+              "title": "Обратные ссылки для Настройка SoapUI"
             }
           },
           {
@@ -359,14 +359,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9d8c9420db2f4865",
+  "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
-    "Настройка SoapUI.md",
-    "Git/Команды.md",
+    "Pasted image 20250523163903.png",
+    "Pasted image 20250523163826.png",
+    "Pasted image 20250523163808.png",
+    "Pasted image 20250523163735.png",
+    "Pasted image 20250523163654.png",
     "Запросы бд/Docker.md",
+    "Паттерны/GOF паттерны.md",
+    "Git/Команды.md",
+    "SoapUI/Настройка SoapUI.md",
     "Git",
     "SoapUI",
-    "Паттерны/GOF паттерны.md",
     "Maven/Общее про Мавен.md",
     "Pasted image 20250512145556.png",
     "Pasted image 20250512145411.png",
@@ -374,13 +379,9 @@
     "Pasted image 20250512144744.png",
     "Pasted image 20250512144448.png",
     "Pasted image 20250512144217.png",
-    "Pasted image 20250512144142.png",
     "Maven/Анализ зависимостей.md",
     "Maven/BOM.md",
-    "Pasted image 20250512142532.png",
-    "Pasted image 20250512142001.png",
     "Maven/scope зависимостей в Maven.md",
-    "Pasted image 20250512140408.png",
     "Java/SOLID.md",
     "Linux/Основные команды.md",
     "Maven",
@@ -404,7 +405,6 @@
     "Java/Многопоточка/video.md",
     "Java/Коллекции/HashMap.md",
     "Java/Коллекции/Иерархия коллекций.md",
-    "Java/Коллекции/Подробный разбор класса HashMap.md",
     "Запросы бд",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf"
   ]
