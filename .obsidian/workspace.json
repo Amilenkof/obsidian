@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Репликация в БД/Создание реплик БД Master-slave.md",
+                "file": "Linux/Основные команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Создание реплик БД Master-slave"
+              "title": "Основные команды"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Репликация в БД/Создание реплик БД Master-slave.md",
+                "file": "Linux/Основные команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Создание реплик БД Master-slave"
+              "title": "Обратные ссылки для Основные команды"
             }
           },
           {
@@ -361,11 +361,13 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "SoapUI/Настройка SoapUI.md",
+    "Linux/Основные команды.md",
+    "Git/Команды.md",
+    "Репликация в БД/Создание реплик БД Master-slave.md",
     "IDEA/Заполнение кода при постановки точки.md",
     "Pasted image 20250527131336.png",
-    "Git/Команды.md",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
-    "SoapUI/Настройка SoapUI.md",
     "Pasted image 20250523163903.png",
     "Pasted image 20250523163826.png",
     "Pasted image 20250523163808.png",
@@ -384,9 +386,7 @@
     "Maven/BOM.md",
     "Maven/scope зависимостей в Maven.md",
     "Java/SOLID.md",
-    "Linux/Основные команды.md",
     "Maven",
-    "Репликация в БД/Создание реплик БД Master-slave.md",
     "Запросы бд/проливка дб менеджер.md",
     "Репликация в БД",
     "Запросы бд/технические запросы.md",
