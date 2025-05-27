@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Основные команды.md",
+                "file": "Git/Команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные команды"
+              "title": "Команды"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Основные команды.md",
+                "file": "Git/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Основные команды"
+              "title": "Обратные ссылки для Команды"
             }
           },
           {
@@ -361,8 +361,8 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
-    "SoapUI/Настройка SoapUI.md",
     "Linux/Основные команды.md",
+    "SoapUI/Настройка SoapUI.md",
     "Git/Команды.md",
     "Репликация в БД/Создание реплик БД Master-slave.md",
     "IDEA/Заполнение кода при постановки точки.md",
