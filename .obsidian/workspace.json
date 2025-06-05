@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "ELK/ELK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды"
+              "title": "ELK"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "ELK/ELK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды"
+              "title": "Обратные ссылки для ELK"
             }
           },
           {
@@ -361,9 +361,9 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "Git/Команды.md",
     "SQL/Запросы для анализа проблем.md",
     "полезные команды.md",
-    "Git/Команды.md",
     "Linux/Основные команды.md",
     "SoapUI/Настройка SoapUI.md",
     "Репликация в БД/Создание реплик БД Master-slave.md",
