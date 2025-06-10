@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELK/ELK.md",
+                "file": "Запросы бд/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELK"
+              "title": "Docker"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELK/ELK.md",
+                "file": "Запросы бд/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ELK"
+              "title": "Обратные ссылки для Docker"
             }
           },
           {
@@ -361,13 +361,15 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "Репликация в БД/Создание реплик БД Master-slave.md",
     "Git/Команды.md",
-    "SQL/Запросы для анализа проблем.md",
+    "IDEA/Заполнение кода при постановки точки.md",
+    "Вопросы для подготовки.md",
     "полезные команды.md",
+    "ELK/ELK.md",
+    "SQL/Запросы для анализа проблем.md",
     "Linux/Основные команды.md",
     "SoapUI/Настройка SoapUI.md",
-    "Репликация в БД/Создание реплик БД Master-slave.md",
-    "IDEA/Заполнение кода при постановки точки.md",
     "Pasted image 20250527131336.png",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
     "Pasted image 20250523163903.png",
@@ -403,8 +405,6 @@
     "Java/конфигурация",
     "config 1.yaml",
     "config.yaml",
-    "Java/Многопоточка/video.md",
-    "Java/Коллекции/HashMap.md",
     "Запросы бд",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf"
   ]
