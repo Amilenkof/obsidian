@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы бд/Docker.md",
+                "file": "Git/Команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Команды"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы бд/Docker.md",
+                "file": "Git/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Docker"
+              "title": "Обратные ссылки для Команды"
             }
           },
           {
@@ -361,6 +361,7 @@
   },
   "active": "ce6e4d623d6a1d1a",
   "lastOpenFiles": [
+    "Запросы бд/Docker.md",
     "Репликация в БД/Создание реплик БД Master-slave.md",
     "Git/Команды.md",
     "IDEA/Заполнение кода при постановки точки.md",
@@ -377,7 +378,6 @@
     "Pasted image 20250523163808.png",
     "Pasted image 20250523163735.png",
     "Pasted image 20250523163654.png",
-    "Запросы бд/Docker.md",
     "Паттерны/GOF паттерны.md",
     "Git",
     "SoapUI",
