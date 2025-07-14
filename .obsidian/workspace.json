@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Transactional.md",
+                "file": "Проблемы/Долгий запуск тестов в дебаге.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transactional"
+              "title": "Долгий запуск тестов в дебаге"
             }
           }
         ],
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Transactional.md",
+                "file": "Проблемы/Долгий запуск тестов в дебаге.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Transactional"
+              "title": "Обратные ссылки для Долгий запуск тестов в дебаге"
             }
           },
           {
@@ -347,8 +347,11 @@
   },
   "active": "9d8c9420db2f4865",
   "lastOpenFiles": [
-    "Spring/Transactional своими словами.md",
     "Spring/Transactional.md",
+    "Проблемы/Долгий запуск тестов в дебаге.md",
+    "Проблемы/Без названия",
+    "Проблемы",
+    "Spring/Transactional своими словами.md",
     "Java/Многопоточка/video.md",
     "Java/Коллекции/Подробный разбор класса HashMap.md",
     "Java/Коллекции/HashMap.md",
@@ -383,15 +386,12 @@
     "Linux/Основные команды.md",
     "Pasted image 20250527131336.png",
     "Java/конфигурация/Конфигурация VM OPTIONS.md",
-    "Паттерны/GOF паттерны.md",
     "Git",
     "SoapUI",
     "Maven",
     "Репликация в БД",
     "IDEA",
     "Java/конфигурация",
-    "config 1.yaml",
-    "config.yaml",
-    "Запросы бд"
+    "config 1.yaml"
   ]
 }
