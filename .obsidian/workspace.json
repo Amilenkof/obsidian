@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Коллекции/HashMap.md",
+                "file": "Spring/Transactional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HashMap"
+              "title": "Transactional"
             }
           }
         ],
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Коллекции/HashMap.md",
+                "file": "Spring/Transactional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для HashMap"
+              "title": "Обратные ссылки для Transactional"
             }
           },
           {
@@ -347,6 +347,12 @@
   },
   "active": "9d8c9420db2f4865",
   "lastOpenFiles": [
+    "Spring/Transactional своими словами.md",
+    "Spring/Transactional.md",
+    "Java/Многопоточка/video.md",
+    "Java/Коллекции/Подробный разбор класса HashMap.md",
+    "Java/Коллекции/HashMap.md",
+    "Java/Коллекции/Иерархия коллекций.md",
     "Вопросы для подготовки.md",
     "Запросы бд/Docker.md",
     "Kafka/Команды кафка.md",
@@ -367,8 +373,6 @@
     "Pasted image 20250630131826.png",
     "Pasted image 20250630131806.png",
     "Pasted image 20250630131737.png",
-    "Spring/Transactional своими словами.md",
-    "Spring/Transactional.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Spring/cglib.md",
     "Spring/Видео про работу спринга - потрошитель.md",
@@ -382,10 +386,6 @@
     "Паттерны/GOF паттерны.md",
     "Git",
     "SoapUI",
-    "Maven/Общее про Мавен.md",
-    "Maven/Анализ зависимостей.md",
-    "Maven/BOM.md",
-    "Maven/scope зависимостей в Maven.md",
     "Maven",
     "Репликация в БД",
     "IDEA",
