@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны/GOF паттерны.md",
+                "file": "Вопросы для подготовки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GOF паттерны"
+              "title": "Вопросы для подготовки"
             }
           }
         ],
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/GOF паттерны.md",
+                "file": "Вопросы для подготовки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для GOF паттерны"
+              "title": "Обратные ссылки для Вопросы для подготовки"
             }
           },
           {
@@ -347,8 +347,16 @@
   },
   "active": "9d8c9420db2f4865",
   "lastOpenFiles": [
-    "Паттерны/Паттерны распределенных систем.md",
+    "полезные команды.md",
+    "Spring/Видео про работу спринга - потрошитель.md",
+    "Spring/Большая статья про Spring- всё обо всем.md",
+    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
+    "Spring/cglib.md",
+    "NOSQL/Обзор NOSQL баз данных.md",
+    "Java/SOLID.md",
+    "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "Паттерны/GOF паттерны.md",
+    "Паттерны/Паттерны распределенных систем.md",
     "Вопросы для подготовки.md",
     "Задачи на ООП/Без названия.md",
     "Задачи на ООП",
@@ -368,14 +376,7 @@
     "Java/Коллекции/HashMap.md",
     "Java/Коллекции/Иерархия коллекций.md",
     "Запросы бд/Docker.md",
-    "Kafka/Команды кафка.md",
     "Kafka",
-    "Spring/AOP.md",
-    "SoapUI/Настройка SoapUI.md",
-    "Git/Команды.md",
-    "Java/ООП и SOLID.md",
-    "Spring/Аннотации.md",
-    "IDEA/Настройки IDEA.md",
     "Pasted image 20250630145035.png",
     "Pasted image 20250630144819.png",
     "Pasted image 20250630144816.png",
@@ -385,7 +386,6 @@
     "Pasted image 20250630131826.png",
     "Pasted image 20250630131806.png",
     "Pasted image 20250630131737.png",
-    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Pasted image 20250527131336.png",
     "Git",
     "SoapUI",
