@@ -236,7 +236,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dockerfile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +257,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -345,7 +346,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9d8c9420db2f4865",
+  "active": "b4cd6980837312b9",
   "lastOpenFiles": [
     "полезные команды.md",
     "Spring/Видео про работу спринга - потрошитель.md",
