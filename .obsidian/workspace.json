@@ -257,8 +257,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -346,7 +345,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b4cd6980837312b9",
+  "active": "4c687a3054db65f1",
   "lastOpenFiles": [
     "полезные команды.md",
     "Spring/Видео про работу спринга - потрошитель.md",
