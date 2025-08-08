@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Аннотации.md",
+                "file": "Spring/Transactional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аннотации"
+              "title": "Transactional"
             }
           }
         ],
@@ -236,7 +236,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dockerfile",
+                "query": "pointcut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +257,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Аннотации.md",
+                "file": "Spring/Transactional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +288,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Аннотации"
+              "title": "Обратные ссылки для Transactional"
             }
           },
           {
@@ -347,6 +348,8 @@
   },
   "active": "9d8c9420db2f4865",
   "lastOpenFiles": [
+    "Spring/AOP.md",
+    "Spring/Аннотации.md",
     "SQL/Партиционирование.md",
     "Партиционирование [LLNsEp].pdf",
     "Паттерны/GOF паттерны.md",
@@ -375,7 +378,6 @@
     "Spring/Transactional своими словами.md",
     "Java/Многопоточка/video.md",
     "Java/Коллекции/Подробный разбор класса HashMap.md",
-    "Java/Коллекции/HashMap.md",
     "Kafka",
     "Pasted image 20250630145035.png",
     "Pasted image 20250630144819.png",
