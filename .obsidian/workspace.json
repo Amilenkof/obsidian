@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Scope.md",
+                "file": "Spring/Жизненный цикл бина.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scope"
+              "title": "Жизненный цикл бина"
             }
           }
         ],
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Scope.md",
+                "file": "Spring/Жизненный цикл бина.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Scope"
+              "title": "Обратные ссылки для Жизненный цикл бина"
             }
           },
           {
@@ -347,9 +347,11 @@
   },
   "active": "9d8c9420db2f4865",
   "lastOpenFiles": [
+    "Pasted image 20250820232309.png",
+    "Spring/Scope.md",
+    "Spring/Жизненный цикл бина.md",
     "Pasted image 20250820231531.png",
     "Linux/Мои действия.md",
-    "Spring/Scope.md",
     "Linux/Основные команды.md",
     "Spring/Transactional.md",
     "Spring/AOP.md",
@@ -374,7 +376,6 @@
     "SQL/Нормализация БД.md",
     "SQL/Индексы.md",
     "SQL/Запросы для анализа проблем.md",
-    "kubernetes/Проперть для дебага.md",
     "Проблемы/Без названия",
     "Проблемы",
     "Kafka",
@@ -387,7 +388,6 @@
     "Pasted image 20250630131826.png",
     "Pasted image 20250630131806.png",
     "Pasted image 20250630131737.png",
-    "Pasted image 20250527131336.png",
     "Git",
     "SoapUI",
     "Maven",
