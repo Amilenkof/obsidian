@@ -202,9 +202,21 @@
               "icon": "lucide-file",
               "title": "Аннотации"
             }
+          },
+          {
+            "id": "e78f0de3f77b1a03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.10"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -277,7 +289,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Аннотации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +298,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Аннотации"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -337,6 +348,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -345,7 +357,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9d8c9420db2f4865",
+  "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
     "Pasted image 20250821163608.png",
     "Spring/Жизненный цикл бина.md",
