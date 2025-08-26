@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Scope.md",
+                "file": "Spring/Аннотации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scope"
+              "title": "Аннотации"
             }
           }
         ],
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Scope.md",
+                "file": "Spring/Аннотации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Scope"
+              "title": "Обратные ссылки для Аннотации"
             }
           },
           {
@@ -362,12 +362,13 @@
   },
   "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
+    "Pasted image 20250826133112.png",
+    "Spring/Scope.md",
     "Pasted image 20250821163608.png",
     "Spring/Жизненный цикл бина.md",
     "Pasted image 20250820233247.png",
     "Pasted image 20250820233038.png",
     "Pasted image 20250820232309.png",
-    "Spring/Scope.md",
     "Pasted image 20250820231531.png",
     "Linux/Мои действия.md",
     "Linux/Основные команды.md",
@@ -402,7 +403,6 @@
     "Pasted image 20250630144816.png",
     "Pasted image 20250630144337.png",
     "Pasted image 20250630131856.png",
-    "Pasted image 20250630131841.png",
     "Git",
     "SoapUI",
     "Maven",
