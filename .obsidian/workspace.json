@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Аннотации.md",
+                "file": "gRPC- изучить.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аннотации"
+              "title": "gRPC- изучить"
             }
           }
         ],
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Аннотации.md",
+                "file": "gRPC- изучить.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Аннотации"
+              "title": "Обратные ссылки для gRPC- изучить"
             }
           },
           {
@@ -362,6 +362,8 @@
   },
   "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
+    "полезные команды.md",
+    "Spring/Аннотации.md",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
     "Spring/Scope.md",
@@ -375,13 +377,11 @@
     "Linux/Основные команды.md",
     "Spring/Transactional.md",
     "Spring/AOP.md",
-    "Spring/Аннотации.md",
     "SQL/Партиционирование.md",
     "Партиционирование [LLNsEp].pdf",
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
     "Вопросы для подготовки.md",
-    "полезные команды.md",
     "Spring/Видео про работу спринга - потрошитель.md",
     "Spring/Большая статья про Spring- всё обо всем.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
@@ -402,7 +402,6 @@
     "Pasted image 20250630145035.png",
     "Pasted image 20250630144819.png",
     "Pasted image 20250630144816.png",
-    "Pasted image 20250630144337.png",
     "Git",
     "SoapUI",
     "Maven",
