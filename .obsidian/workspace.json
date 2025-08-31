@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Многопоточка/CAS.md",
+                "file": "Java/Многопоточка/ABA проблема.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAS"
+              "title": "ABA проблема"
             }
           }
         ],
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Многопоточка/CAS.md",
+                "file": "Java/Многопоточка/ABA проблема.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для CAS"
+              "title": "Обратные ссылки для ABA проблема"
             }
           },
           {
@@ -362,8 +362,9 @@
   },
   "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
+    "Java/Многопоточка/Определения.md",
+    "Java/Многопоточка/ABA проблема.md",
     "Java/Многопоточка/video.md",
-    "Java/Многопоточка/CAS.md",
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
     "Проектирование/Принципы проектирования.md",
@@ -396,7 +397,6 @@
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "Задачи на ООП/Без названия.md",
     "Задачи на ООП",
-    "SQL/ACID.md",
     "Проблемы/Без названия",
     "Проблемы",
     "Kafka",
