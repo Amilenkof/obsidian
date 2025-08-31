@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование/Принципы проектирования.md",
+                "file": "Паттерны/GOF паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Принципы проектирования"
+              "title": "GOF паттерны"
             }
           }
         ],
@@ -271,8 +271,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -292,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проектирование/Принципы проектирования.md",
+                "file": "Паттерны/GOF паттерны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Принципы проектирования"
+              "title": "Обратные ссылки для GOF паттерны"
             }
           },
           {
@@ -363,6 +362,9 @@
   },
   "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
+    "Паттерны/Паттерны распределенных систем.md",
+    "Паттерны/GOF паттерны.md",
+    "Проектирование/Принципы проектирования.md",
     "Java/ООП и SOLID.md",
     "Вопросы для подготовки.md",
     "gRPC- изучить.md",
@@ -383,8 +385,6 @@
     "Spring/AOP.md",
     "SQL/Партиционирование.md",
     "Партиционирование [LLNsEp].pdf",
-    "Паттерны/GOF паттерны.md",
-    "Паттерны/Паттерны распределенных систем.md",
     "Spring/Видео про работу спринга - потрошитель.md",
     "Spring/Большая статья про Spring- всё обо всем.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
@@ -397,7 +397,6 @@
     "SQL/ACID.md",
     "SQL/Шардирование и репликация.md",
     "SQL/Нормализация БД.md",
-    "SQL/Индексы.md",
     "Проблемы/Без названия",
     "Проблемы",
     "Kafka",
