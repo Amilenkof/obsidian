@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "Проектирование/Принципы проектирования.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы для подготовки"
+              "title": "Принципы проектирования"
             }
           }
         ],
@@ -250,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "solid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,7 +271,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "Проектирование/Принципы проектирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +302,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Вопросы для подготовки"
+              "title": "Обратные ссылки для Принципы проектирования"
             }
           },
           {
@@ -362,6 +363,8 @@
   },
   "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
+    "Java/ООП и SOLID.md",
+    "Вопросы для подготовки.md",
     "gRPC- изучить.md",
     "Spring/Жизненный цикл бина.md",
     "полезные команды.md",
@@ -382,7 +385,6 @@
     "Партиционирование [LLNsEp].pdf",
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
-    "Вопросы для подготовки.md",
     "Spring/Видео про работу спринга - потрошитель.md",
     "Spring/Большая статья про Spring- всё обо всем.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
@@ -396,7 +398,6 @@
     "SQL/Шардирование и репликация.md",
     "SQL/Нормализация БД.md",
     "SQL/Индексы.md",
-    "SQL/Запросы для анализа проблем.md",
     "Проблемы/Без названия",
     "Проблемы",
     "Kafka",
