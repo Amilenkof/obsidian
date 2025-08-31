@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны/GOF паттерны.md",
+                "file": "Java/Многопоточка/CAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GOF паттерны"
+              "title": "CAS"
             }
           }
         ],
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/GOF паттерны.md",
+                "file": "Java/Многопоточка/CAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для GOF паттерны"
+              "title": "Обратные ссылки для CAS"
             }
           },
           {
@@ -362,8 +362,10 @@
   },
   "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
-    "Паттерны/Паттерны распределенных систем.md",
+    "Java/Многопоточка/video.md",
+    "Java/Многопоточка/CAS.md",
     "Паттерны/GOF паттерны.md",
+    "Паттерны/Паттерны распределенных систем.md",
     "Проектирование/Принципы проектирования.md",
     "Java/ООП и SOLID.md",
     "Вопросы для подготовки.md",
@@ -395,8 +397,6 @@
     "Задачи на ООП/Без названия.md",
     "Задачи на ООП",
     "SQL/ACID.md",
-    "SQL/Шардирование и репликация.md",
-    "SQL/Нормализация БД.md",
     "Проблемы/Без названия",
     "Проблемы",
     "Kafka",
