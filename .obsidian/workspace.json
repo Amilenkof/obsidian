@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Многопоточка/ABA проблема.md",
+                "file": "Java/ООП и SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABA проблема"
+              "title": "ООП и SOLID"
             }
           }
         ],
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Многопоточка/ABA проблема.md",
+                "file": "Java/ООП и SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ABA проблема"
+              "title": "Обратные ссылки для ООП и SOLID"
             }
           },
           {
@@ -362,13 +362,14 @@
   },
   "active": "e78f0de3f77b1a03",
   "lastOpenFiles": [
-    "Java/Многопоточка/Определения.md",
+    "Java/SOLID.md",
+    "Java/ООП и SOLID.md",
     "Java/Многопоточка/ABA проблема.md",
+    "Java/Многопоточка/Определения.md",
     "Java/Многопоточка/video.md",
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
     "Проектирование/Принципы проектирования.md",
-    "Java/ООП и SOLID.md",
     "Вопросы для подготовки.md",
     "gRPC- изучить.md",
     "Spring/Жизненный цикл бина.md",
@@ -393,7 +394,6 @@
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Spring/cglib.md",
     "NOSQL/Обзор NOSQL баз данных.md",
-    "Java/SOLID.md",
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "Задачи на ООП/Без названия.md",
     "Задачи на ООП",
