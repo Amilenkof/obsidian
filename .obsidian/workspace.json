@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hibernate/Hibernate cache.md",
+                "file": "Hibernate/LazyInitialization Exception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hibernate cache"
+              "title": "LazyInitialization Exception"
             }
           }
         ],
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hibernate/Hibernate cache.md",
+                "file": "Hibernate/LazyInitialization Exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Hibernate cache"
+              "title": "Обратные ссылки для LazyInitialization Exception"
             }
           },
           {
@@ -376,6 +376,8 @@
   },
   "active": "9a9a501bb9799f9c",
   "lastOpenFiles": [
+    "Hibernate/Hibernate cache.md",
+    "Hibernate/LazyInitialization Exception.md",
     "Hibernate/Наследование.md",
     "Паттерны/CQRS.md",
     "Java/SOLID.md",
@@ -408,8 +410,6 @@
     "Spring/Видео про работу спринга - потрошитель.md",
     "Spring/Большая статья про Spring- всё обо всем.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
-    "Spring/cglib.md",
-    "NOSQL/Обзор NOSQL баз данных.md",
     "Задачи на ООП",
     "Проблемы/Без названия",
     "Проблемы",
