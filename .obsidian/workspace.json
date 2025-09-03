@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны/Onion achet.md",
+                "file": "Паттерны/Onion Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onion achet"
+              "title": "Onion Architecture"
             }
           }
         ],
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/Onion achet.md",
+                "file": "Паттерны/Onion Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Onion achet"
+              "title": "Обратные ссылки для Onion Architecture"
             }
           },
           {
@@ -378,7 +378,7 @@
   "lastOpenFiles": [
     "Pasted image 20250904000112.png",
     "Hibernate/Состоянии Entity в hibernate.md",
-    "Паттерны/Onion achet.md",
+    "Паттерны/Onion Architecture.md",
     "Hibernate/LazyInitialization Exception.md",
     "Hibernate/Hibernate cache.md",
     "Hibernate/Наследование.md",
