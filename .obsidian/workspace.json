@@ -223,16 +223,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны/Onion Architecture.md",
+                "file": "Java/Многопоточка/Определения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onion Architecture"
+              "title": "Определения"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/Onion Architecture.md",
+                "file": "Rest API/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Onion Architecture"
+              "title": "Обратные ссылки для REST API"
             }
           },
           {
@@ -374,11 +374,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9a9a501bb9799f9c",
+  "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "Java/Многопоточка/Определения.md",
+    "Паттерны/Onion Architecture.md",
     "Pasted image 20250904000112.png",
     "Hibernate/Состоянии Entity в hibernate.md",
-    "Паттерны/Onion Architecture.md",
     "Hibernate/LazyInitialization Exception.md",
     "Hibernate/Hibernate cache.md",
     "Hibernate/Наследование.md",
@@ -386,7 +387,6 @@
     "Java/SOLID.md",
     "Java/ООП и SOLID.md",
     "Java/Многопоточка/ABA проблема.md",
-    "Java/Многопоточка/Определения.md",
     "Java/Многопоточка/video.md",
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
@@ -416,7 +416,6 @@
     "Kafka",
     "Pasted image 20250630145035.png",
     "Pasted image 20250630144819.png",
-    "Pasted image 20250630144816.png",
     "Git",
     "SoapUI",
     "Maven",
