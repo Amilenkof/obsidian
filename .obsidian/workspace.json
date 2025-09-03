@@ -216,9 +216,21 @@
               "icon": "lucide-file",
               "title": "ООП и SOLID"
             }
+          },
+          {
+            "id": "9a9a501bb9799f9c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.12"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -291,7 +303,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/ООП и SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +312,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ООП и SOLID"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -360,7 +371,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e78f0de3f77b1a03",
+  "active": "9a9a501bb9799f9c",
   "lastOpenFiles": [
     "Java/SOLID.md",
     "Java/ООП и SOLID.md",
