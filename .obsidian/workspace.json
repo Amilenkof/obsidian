@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hibernate/LazyInitialization Exception.md",
+                "file": "Паттерны/Onion achet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LazyInitialization Exception"
+              "title": "Onion achet"
             }
           }
         ],
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hibernate/LazyInitialization Exception.md",
+                "file": "Паттерны/Onion achet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для LazyInitialization Exception"
+              "title": "Обратные ссылки для Onion achet"
             }
           },
           {
@@ -376,8 +376,11 @@
   },
   "active": "9a9a501bb9799f9c",
   "lastOpenFiles": [
-    "Hibernate/Hibernate cache.md",
+    "Pasted image 20250904000112.png",
+    "Hibernate/Состоянии Entity в hibernate.md",
+    "Паттерны/Onion achet.md",
     "Hibernate/LazyInitialization Exception.md",
+    "Hibernate/Hibernate cache.md",
     "Hibernate/Наследование.md",
     "Паттерны/CQRS.md",
     "Java/SOLID.md",
@@ -407,9 +410,6 @@
     "Spring/AOP.md",
     "SQL/Партиционирование.md",
     "Партиционирование [LLNsEp].pdf",
-    "Spring/Видео про работу спринга - потрошитель.md",
-    "Spring/Большая статья про Spring- всё обо всем.md",
-    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Задачи на ООП",
     "Проблемы/Без названия",
     "Проблемы",
