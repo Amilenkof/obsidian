@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/cglib.md",
+                "file": "SQL/ACID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cglib"
+              "title": "ACID"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/cglib.md",
+                "file": "SQL/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для cglib"
+              "title": "Обратные ссылки для ACID"
             }
           },
           {
@@ -376,6 +376,12 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "SQL/Индексы.md",
+    "SQL/Шардирование и репликация.md",
+    "SQL/Партиционирование.md",
+    "SQL/Нормализация БД.md",
+    "SQL/Запросы для анализа проблем.md",
+    "Spring/cglib.md",
     "Spring/Transactional.md",
     "Spring/Transactional своими словами.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
@@ -397,14 +403,8 @@
     "Паттерны/GOF паттерны.md",
     "Паттерны/Паттерны распределенных систем.md",
     "Проектирование/Принципы проектирования.md",
-    "Вопросы для подготовки.md",
-    "gRPC- изучить.md",
-    "Spring/Жизненный цикл бина.md",
-    "полезные команды.md",
-    "Spring/Аннотации.md",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
-    "Spring/Scope.md",
     "Pasted image 20250821163608.png",
     "Pasted image 20250820233247.png",
     "Pasted image 20250820233038.png",
