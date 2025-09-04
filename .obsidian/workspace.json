@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rest API/REST API.md",
+                "file": "Java/Коллекции/Подробный разбор класса HashMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST API"
+              "title": "Подробный разбор класса HashMap"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rest API/REST API.md",
+                "file": "Java/Коллекции/Подробный разбор класса HashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для REST API"
+              "title": "Обратные ссылки для Подробный разбор класса HashMap"
             }
           },
           {
@@ -376,6 +376,9 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "Java/Коллекции/Иерархия коллекций.md",
+    "Java/Коллекции/Подробный разбор класса HashMap.md",
+    "Rest API/REST API.md",
     "Java/Многопоточка/Определения.md",
     "Паттерны/Onion Architecture.md",
     "Pasted image 20250904000112.png",
@@ -407,8 +410,6 @@
     "Linux/Мои действия.md",
     "Linux/Основные команды.md",
     "Spring/Transactional.md",
-    "Spring/AOP.md",
-    "SQL/Партиционирование.md",
     "Партиционирование [LLNsEp].pdf",
     "Задачи на ООП",
     "Проблемы/Без названия",
