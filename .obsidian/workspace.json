@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Transactional.md",
+                "file": "Spring/cglib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transactional"
+              "title": "cglib"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Transactional.md",
+                "file": "Spring/cglib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Transactional"
+              "title": "Обратные ссылки для cglib"
             }
           },
           {
@@ -376,6 +376,7 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "Spring/Transactional.md",
     "Spring/Transactional своими словами.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Java/Коллекции/Подробный разбор класса HashMap.md",
@@ -409,7 +410,6 @@
     "Pasted image 20250820233038.png",
     "Pasted image 20250820232309.png",
     "Pasted image 20250820231531.png",
-    "Linux/Мои действия.md",
     "Партиционирование [LLNsEp].pdf",
     "Задачи на ООП",
     "Проблемы/Без названия",
