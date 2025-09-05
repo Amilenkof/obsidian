@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Коллекции/Иерархия коллекций.md",
+                "file": "Rest API/REST API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Иерархия коллекций"
+              "title": "REST API"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Коллекции/Иерархия коллекций.md",
+                "file": "Rest API/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Иерархия коллекций"
+              "title": "Обратные ссылки для REST API"
             }
           },
           {
@@ -376,6 +376,12 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
+    "Hibernate/Наследование.md",
+    "Кеш/кеширование.md",
+    "Задачи на ООП/Без названия.md",
+    "Hibernate/Hibernate cache.md",
+    "Java/Коллекции/Иерархия коллекций.md",
     "Java/ClassLoaders.md",
     "kubernetes/Команды KubeCtl.md",
     "Spring/Scope.md",
@@ -396,12 +402,6 @@
     "SQL/Запросы для анализа проблем.md",
     "Spring/cglib.md",
     "Spring/Transactional.md",
-    "Spring/Transactional своими словами.md",
-    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
-    "Java/Коллекции/Подробный разбор класса HashMap.md",
-    "Java/Коллекции/Иерархия коллекций.md",
-    "Rest API/REST API.md",
-    "Паттерны/Onion Architecture.md",
     "Pasted image 20250904000112.png",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
