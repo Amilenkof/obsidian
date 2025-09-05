@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rest API/REST API.md",
+                "file": "Docker/Video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST API"
+              "title": "Video"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rest API/REST API.md",
+                "file": "Docker/Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для REST API"
+              "title": "Обратные ссылки для Video"
             }
           },
           {
@@ -376,11 +376,22 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
-    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
-    "Hibernate/Наследование.md",
     "Кеш/кеширование.md",
-    "Задачи на ООП/Без названия.md",
+    "Docker/Video.md",
+    "Docker",
+    "Вопросы для подготовки.md",
+    "Партиционирование [LLNsEp].pdf",
+    "Hibernate/Наследование.md",
     "Hibernate/Hibernate cache.md",
+    "Hibernate/Состоянии Entity в hibernate.md",
+    "Паттерны/GOF паттерны.md",
+    "Паттерны/CQRS.md",
+    "Паттерны/Паттерны распределенных систем.md",
+    "Книги/КНИГА Head_First_паттерны проектирования.pdf",
+    "Задачи на ООП/Без названия.md",
+    "Kafka/Команды кафка.md",
+    "Rest API/REST API.md",
+    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Java/Коллекции/Иерархия коллекций.md",
     "Java/ClassLoaders.md",
     "kubernetes/Команды KubeCtl.md",
@@ -389,19 +400,11 @@
     "Java/Многопоточка/ABA проблема.md",
     "Java/Многопоточка/Определения.md",
     "Spring/Аннотации.md",
-    "Kafka/Команды кафка.md",
     "Java/java io.md",
     "Java/Big O Notation.md",
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "SOAP/Отличия SOAP и REST.md",
     "SQL/Шардирование и репликация.md",
-    "SQL/ACID.md",
-    "SQL/Индексы.md",
-    "SQL/Партиционирование.md",
-    "SQL/Нормализация БД.md",
-    "SQL/Запросы для анализа проблем.md",
-    "Spring/cglib.md",
-    "Spring/Transactional.md",
     "Pasted image 20250904000112.png",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
@@ -410,7 +413,6 @@
     "Pasted image 20250820233038.png",
     "Pasted image 20250820232309.png",
     "Pasted image 20250820231531.png",
-    "Партиционирование [LLNsEp].pdf",
     "Задачи на ООП",
     "Проблемы/Без названия",
     "Проблемы",
@@ -419,8 +421,6 @@
     "Pasted image 20250630144819.png",
     "Git",
     "SoapUI",
-    "Maven",
-    "Репликация в БД",
-    "IDEA"
+    "Maven"
   ]
 }
