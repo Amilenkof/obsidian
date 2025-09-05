@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Video.md",
+                "file": "Kafka/Video.md",
                 "mode": "source",
                 "source": false
               },
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Video.md",
+                "file": "Kafka/Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,10 +376,11 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
-    "Кеш/кеширование.md",
-    "Docker/Video.md",
-    "Docker",
     "Вопросы для подготовки.md",
+    "Kafka/Video.md",
+    "Docker/Video.md",
+    "Кеш/кеширование.md",
+    "Docker",
     "Партиционирование [LLNsEp].pdf",
     "Hibernate/Наследование.md",
     "Hibernate/Hibernate cache.md",
@@ -404,7 +405,6 @@
     "Java/Big O Notation.md",
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "SOAP/Отличия SOAP и REST.md",
-    "SQL/Шардирование и репликация.md",
     "Pasted image 20250904000112.png",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
