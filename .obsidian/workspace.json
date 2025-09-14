@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/Команды кафка.md",
+                "file": "kubernetes/Проперть для дебага.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды кафка"
+              "title": "Проперть для дебага"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/Команды кафка.md",
+                "file": "kubernetes/Проперть для дебага.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды кафка"
+              "title": "Обратные ссылки для Проперть для дебага"
             }
           },
           {
@@ -376,6 +376,8 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "kubernetes/Команды KubeCtl.md",
+    "Kafka/Команды кафка.md",
     "Git/Команды.md",
     "kubernetes/Проперть для дебага.md",
     "Вопросы для подготовки.md",
@@ -393,12 +395,10 @@
     "Паттерны/Паттерны распределенных систем.md",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf",
     "Задачи на ООП/Без названия.md",
-    "Kafka/Команды кафка.md",
     "Rest API/REST API.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Java/Коллекции/Иерархия коллекций.md",
     "Java/ClassLoaders.md",
-    "kubernetes/Команды KubeCtl.md",
     "Spring/Scope.md",
     "Java/Многопоточка/video.md",
     "Java/Многопоточка/ABA проблема.md",
