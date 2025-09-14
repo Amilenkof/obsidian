@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "Kafka/Команды кафка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды"
+              "title": "Команды кафка"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "Kafka/Команды кафка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды"
+              "title": "Обратные ссылки для Команды кафка"
             }
           },
           {
@@ -376,6 +376,7 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "Git/Команды.md",
     "kubernetes/Проперть для дебага.md",
     "Вопросы для подготовки.md",
     "Партиционирование [LLNsEp].pdf",
@@ -404,7 +405,6 @@
     "Java/Многопоточка/Определения.md",
     "Spring/Аннотации.md",
     "Java/java io.md",
-    "Java/Big O Notation.md",
     "Pasted image 20250904000112.png",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
