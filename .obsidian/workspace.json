@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "Docker/Video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы для подготовки"
+              "title": "Video"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "Docker/Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Вопросы для подготовки"
+              "title": "Обратные ссылки для Video"
             }
           },
           {
@@ -376,11 +376,13 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "BPMN/Ссылка на документацию.md",
+    "Вопросы для подготовки.md",
+    "BPMN",
     "kubernetes/Проперть для дебага.md",
     "kubernetes/Команды KubeCtl.md",
     "Kafka/Команды кафка.md",
     "Git/Команды.md",
-    "Вопросы для подготовки.md",
     "Партиционирование [LLNsEp].pdf",
     "полезные команды.md",
     "Kafka/Video.md",
@@ -404,7 +406,6 @@
     "Java/Многопоточка/ABA проблема.md",
     "Java/Многопоточка/Определения.md",
     "Spring/Аннотации.md",
-    "Java/java io.md",
     "Pasted image 20250904000112.png",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
@@ -420,7 +421,6 @@
     "Pasted image 20250630145035.png",
     "Pasted image 20250630144819.png",
     "Git",
-    "SoapUI",
-    "Maven"
+    "SoapUI"
   ]
 }
