@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/Проперть для дебага.md",
+                "file": "Вопросы для подготовки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проперть для дебага"
+              "title": "Вопросы для подготовки"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/Проперть для дебага.md",
+                "file": "Вопросы для подготовки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Проперть для дебага"
+              "title": "Обратные ссылки для Вопросы для подготовки"
             }
           },
           {
@@ -376,9 +376,9 @@
   },
   "active": "6c081149e0131372",
   "lastOpenFiles": [
+    "kubernetes/Проперть для дебага.md",
     "kubernetes/Команды KubeCtl.md",
     "Kafka/Команды кафка.md",
-    "kubernetes/Проперть для дебага.md",
     "Git/Команды.md",
     "Вопросы для подготовки.md",
     "Партиционирование [LLNsEp].pdf",
