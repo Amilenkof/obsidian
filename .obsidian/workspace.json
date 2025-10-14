@@ -8,245 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77856ae78ce8bbcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проектирование/CAP теорема.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CAP теорема"
-            }
-          },
-          {
-            "id": "d7bb0b8a83a845ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проектирование/Принципы проектирования.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Принципы проектирования"
-            }
-          },
-          {
-            "id": "6c081149e0131372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/SOLID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOLID"
-            }
-          },
-          {
             "id": "fff948c91c5faab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/Команды KubeCtl.md",
+                "file": "GraphQL/статья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды KubeCtl"
-            }
-          },
-          {
-            "id": "0b28e81f613dadf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вопросы для подготовки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вопросы для подготовки"
-            }
-          },
-          {
-            "id": "6a7c6f1292f9a5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Многопоточка/video.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "video"
-            }
-          },
-          {
-            "id": "76b948d76637f7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOAP/Отличия SOAP и REST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Отличия SOAP и REST"
-            }
-          },
-          {
-            "id": "714758b3678228e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/cglib.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cglib"
-            }
-          },
-          {
-            "id": "71e4d7a4f5f6ab9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "полезные команды.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "полезные команды"
-            }
-          },
-          {
-            "id": "14cce3cec0fec4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Основные команды.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основные команды"
-            }
-          },
-          {
-            "id": "7c86c9960fbacb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/конфигурация/Конфигурация для запуска maven команд.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Конфигурация для запуска maven команд"
-            }
-          },
-          {
-            "id": "943a46561df3603a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/ООП и SOLID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ООП и SOLID"
-            }
-          },
-          {
-            "id": "ce6e4d623d6a1d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/Аннотации.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Аннотации"
-            }
-          },
-          {
-            "id": "63a650651f45aae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны/GOF паттерны.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GOF паттерны"
-            }
-          },
-          {
-            "id": "9d8c9420db2f4865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/Аннотации.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Аннотации"
-            }
-          },
-          {
-            "id": "e78f0de3f77b1a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/ООП и SOLID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ООП и SOLID"
-            }
-          },
-          {
-            "id": "9a9a501bb9799f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Многопоточка/Определения.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Определения"
+              "title": "статья"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/Команды KubeCtl.md",
+                "file": "GraphQL/статья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды KubeCtl"
+              "title": "Обратные ссылки для статья"
             }
           },
           {
@@ -365,13 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Основные команды.md"
+                "file": "GraphQL/статья.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Основные команды"
+              "title": "Структура статья"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -388,8 +167,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fff948c91c5faab7",
+  "active": "7f64635d9b348103",
   "lastOpenFiles": [
+    "Подробности о GraphQL_ что, как и почему _ Хабр.html",
+    "kubernetes/Команды KubeCtl.md",
+    "GraphQL/статья.md",
+    "GraphQL",
     "Kafka/Очень коротко про Кафку.md",
     "Java/StreamAPI/Без названия.md",
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
@@ -415,12 +198,9 @@
     "BPMN/Ссылка на документацию.md",
     "BPMN",
     "kubernetes/Проперть для дебага.md",
-    "kubernetes/Команды KubeCtl.md",
     "Kafka/Команды кафка.md",
     "Партиционирование [LLNsEp].pdf",
     "полезные команды.md",
-    "Kafka/Video.md",
-    "Кеш/кеширование.md",
     "Docker",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf",
     "Pasted image 20250904000112.png",
@@ -436,7 +216,6 @@
     "Проблемы",
     "Kafka",
     "Pasted image 20250630145035.png",
-    "Pasted image 20250630144819.png",
-    "Git"
+    "Pasted image 20250630144819.png"
   ]
 }
