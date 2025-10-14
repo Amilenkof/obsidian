@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "fff948c91c5faab7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
+          },
+          {
             "id": "0b28e81f613dadf4",
             "type": "leaf",
             "state": {
@@ -232,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +327,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для SOLID"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -375,7 +386,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6c081149e0131372",
+  "active": "fff948c91c5faab7",
   "lastOpenFiles": [
     "Вопросы для подготовки.md",
     "SQL/Анализ зависших транзакций в MSSQL.md",
