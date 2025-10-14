@@ -53,12 +53,14 @@
             "id": "fff948c91c5faab7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Spring/Жизненный цикл бина.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.14"
+              "icon": "lucide-file",
+              "title": "Жизненный цикл бина"
             }
           },
           {
@@ -276,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "solid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,8 +299,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,6 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/Жизненный цикл бина.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +329,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Жизненный цикл бина"
             }
           },
           {
@@ -388,7 +390,14 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
+    "Паттерны/Паттерны распределенных систем.md",
+    "Паттерны/GOF паттерны.md",
+    "Паттерны/CQRS.md",
     "Вопросы для подготовки.md",
+    "Без названия 1.canvas",
+    "Без названия.base",
+    "Без названия.canvas",
+    "2025-10-14.md",
     "SQL/Анализ зависших транзакций в MSSQL.md",
     "ELK/ELK.md",
     "Git/Команды.md",
@@ -406,9 +415,6 @@
     "Hibernate/Наследование.md",
     "Hibernate/Hibernate cache.md",
     "Hibernate/Состоянии Entity в hibernate.md",
-    "Паттерны/GOF паттерны.md",
-    "Паттерны/CQRS.md",
-    "Паттерны/Паттерны распределенных систем.md",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf",
     "Задачи на ООП/Без названия.md",
     "Rest API/REST API.md",
@@ -416,8 +422,6 @@
     "Java/Коллекции/Иерархия коллекций.md",
     "Java/ClassLoaders.md",
     "Spring/Scope.md",
-    "Java/Многопоточка/video.md",
-    "Java/Многопоточка/ABA проблема.md",
     "Pasted image 20250904000112.png",
     "Pasted image 20250826133631.png",
     "Pasted image 20250826133112.png",
@@ -432,7 +436,6 @@
     "Kafka",
     "Pasted image 20250630145035.png",
     "Pasted image 20250630144819.png",
-    "Git",
-    "SoapUI"
+    "Git"
   ]
 }
