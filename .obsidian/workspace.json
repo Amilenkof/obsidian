@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphQL/статья.md",
+                "file": "GraphQL/Статья хабр.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "статья"
+              "title": "Статья хабр"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphQL/статья.md",
+                "file": "GraphQL/Статья хабр.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для статья"
+              "title": "Обратные ссылки для Статья хабр"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphQL/статья.md",
+                "file": "GraphQL/Статья хабр.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура статья"
+              "title": "Структура Статья хабр"
             }
           }
         ],
@@ -167,9 +167,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4c687a3054db65f1",
+  "active": "fff948c91c5faab7",
   "lastOpenFiles": [
     "GraphQL/0e1130e559ee0ba56a178aa881e552a8.png",
+    "GraphQL/Статья хабр.md",
+    "GraphQL",
+    "GraphQL/статья.md",
+    "GraphQL/8543bb641e977c1fba5597e7c70a9c51.png",
+    "GraphQL/статья/Подробности о GraphQL_ что, как и почему _ Хабр_files/0e1130e559ee0ba56a178aa881e552a8.png",
     "GraphQL/tag.js",
     "GraphQL/saved_resource.html",
     "GraphQL/roxot-manager.js",
@@ -180,18 +185,13 @@
     "GraphQL/host.js",
     "GraphQL/gallery.027d14e6.css",
     "GraphQL/fb6ef6713c7ac645ad9668af3b7aa161.png",
-    "GraphQL/dynamic-engine.js",
     "GraphQL/dda0001eb05bb41f4a33c1d8d44410f9.png",
     "GraphQL/dda0001eb05bb41f4a33c1d8d44410f9(1).png",
     "GraphQL/cc397d54c2161005908a3034c5fabbea.png",
     "GraphQL/c7oqa1w2b00akzatd2womwb_daw.png",
     "GraphQL/a890fdc56389815233584327e76011c1.png",
-    "GraphQL/8543bb641e977c1fba5597e7c70a9c51.png",
     "GraphQL/351c2cd0454796adab40bb11c60d4a49.png",
-    "GraphQL/189.png",
-    "GraphQL/60c10ea0bf422e938343841203ebdcb7.png",
     "kubernetes/Команды KubeCtl.md",
-    "GraphQL/статья.md",
     "Kafka/Очень коротко про Кафку.md",
     "Java/StreamAPI/Без названия.md",
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
@@ -215,7 +215,6 @@
     "Docker/Video.md",
     "BPMN/Ссылка на документацию.md",
     "kubernetes/Проперть для дебага.md",
-    "Kafka/Команды кафка.md",
-    "полезные команды.md"
+    "Kafka/Команды кафка.md"
   ]
 }
