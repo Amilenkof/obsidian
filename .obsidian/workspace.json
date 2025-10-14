@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/StreamAPI/Без названия.md",
+                "file": "kubernetes/Команды KubeCtl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Команды KubeCtl"
             }
           },
           {
@@ -319,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/StreamAPI/Без названия.md",
+                "file": "kubernetes/Команды KubeCtl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +329,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Команды KubeCtl"
             }
           },
           {
@@ -390,6 +390,8 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
+    "Kafka/Очень коротко про Кафку.md",
+    "Java/StreamAPI/Без названия.md",
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "Java/Многопоточка/Определения.md",
     "Java/конфигурация/Конфигурация для запуска maven команд.md",
@@ -420,8 +422,6 @@
     "Kafka/Video.md",
     "Кеш/кеширование.md",
     "Docker",
-    "Hibernate/Наследование.md",
-    "Hibernate/Hibernate cache.md",
     "Книги/КНИГА Head_First_паттерны проектирования.pdf",
     "Pasted image 20250904000112.png",
     "Pasted image 20250826133631.png",

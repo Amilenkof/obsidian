@@ -15,15 +15,15 @@ kubectl cluster-info    в итоге это ввел другую команд�
 
 ### **1. Просмотр ресурсов**
 
-|Команда|Описание|
-|---|---|
-|`kubectl get pods`|Список всех Pod в текущем namespace|
-|`kubectl get pods -n <namespace>`|Список Pod в указанном namespace|
-|`kubectl get pods -A`|Список Pod во всех namespaces|
-|`kubectl get deployments`|Список Deployment|
-|`kubectl get services`|Список Services|
-|`kubectl get nodes`|Список нод кластера|
-|`kubectl get ingress`|Список Ingress-правил|
+| Команда                           | Описание                            |     |
+| --------------------------------- | ----------------------------------- | --- |
+| `kubectl get pods`                | Список всех Pod в текущем namespace |     |
+| `kubectl get pods -n <namespace>` | Список Pod в указанном namespace    |     |
+| `kubectl get pods -A`             | Список Pod во всех namespaces       |     |
+| `kubectl get deployments`         | Список Deployment                   |     |
+| `kubectl get services`            | Список Services                     |     |
+| `kubectl get nodes`               | Список нод кластера                 |     |
+| `kubectl get ingress`             | Список Ingress-правил               |     |
 
 ---
 
