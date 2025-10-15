@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "kubernetes/Проперть для дебага.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы для подготовки"
+              "title": "Проперть для дебага"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "kubernetes/Проперть для дебага.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Вопросы для подготовки"
+              "title": "Структура Проперть для дебага"
             }
           }
         ],
@@ -169,6 +169,7 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
+    "Вопросы для подготовки.md",
     "Hibernate/Наследование.md",
     "Maven/Общее про Мавен.md",
     "Maven/scope зависимостей в Maven.md",
@@ -203,7 +204,6 @@
     "Java/конфигурация/Конфигурация для запуска maven команд.md",
     "Java/ООП и SOLID.md",
     "Java/SOLID.md",
-    "Вопросы для подготовки.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Spring/Scope.md",
     "Spring/Жизненный цикл бина.md",
