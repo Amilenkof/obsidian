@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphQL/Статья хабр.md",
+                "file": "Вопросы для подготовки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статья хабр"
+              "title": "Вопросы для подготовки"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphQL/Статья хабр.md",
+                "file": "Вопросы для подготовки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Статья хабр"
+              "title": "Структура Вопросы для подготовки"
             }
           }
         ],
@@ -169,8 +169,12 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
-    "GraphQL/0e1130e559ee0ba56a178aa881e552a8.png",
+    "Hibernate/Наследование.md",
+    "Maven/Общее про Мавен.md",
+    "Maven/scope зависимостей в Maven.md",
+    "Maven/BOM.md",
     "GraphQL/Статья хабр.md",
+    "GraphQL/0e1130e559ee0ba56a178aa881e552a8.png",
     "GraphQL",
     "GraphQL/статья.md",
     "GraphQL/8543bb641e977c1fba5597e7c70a9c51.png",
@@ -212,9 +216,6 @@
     "SQL/Анализ зависших транзакций в MSSQL.md",
     "ELK/ELK.md",
     "Git/Команды.md",
-    "Docker/Video.md",
-    "BPMN/Ссылка на документацию.md",
-    "kubernetes/Проперть для дебага.md",
-    "Kafka/Команды кафка.md"
+    "Docker/Video.md"
   ]
 }
