@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование/CAP теорема.md",
+                "file": "Вопросы для подготовки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAP теорема"
+              "title": "Вопросы для подготовки"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "уровни изол",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проектирование/CAP теорема.md",
+                "file": "Вопросы для подготовки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура CAP теорема"
+              "title": "Структура Вопросы для подготовки"
             }
           }
         ],
@@ -169,6 +170,7 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
+    "Проектирование/CAP теорема.md",
     "Rest API/Идемпотентность запросов.md",
     "Rest API/REST API.md",
     "gRPC- изучить.md",
@@ -214,7 +216,6 @@
     "Java/ООП и SOLID.md",
     "Java/SOLID.md",
     "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
-    "Spring/Scope.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
