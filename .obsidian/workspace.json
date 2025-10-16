@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rest API/Идемпотентность запросов.md",
+                "file": "Проектирование/CAP теорема.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Идемпотентность запросов"
+              "title": "CAP теорема"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rest API/Идемпотентность запросов.md",
+                "file": "Проектирование/CAP теорема.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Идемпотентность запросов"
+              "title": "Структура CAP теорема"
             }
           }
         ],
@@ -169,8 +169,8 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
-    "Rest API/REST API.md",
     "Rest API/Идемпотентность запросов.md",
+    "Rest API/REST API.md",
     "gRPC- изучить.md",
     "Java/Многопоточка/Определения.md",
     "Java/Многопоточка/video.md",
