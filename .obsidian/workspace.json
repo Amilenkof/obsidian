@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "SQL/Уровни изоляции проблемы связанные с ними.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы для подготовки"
+              "title": "Уровни изоляции проблемы связанные с ними"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "уровни изол",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы для подготовки.md",
+                "file": "SQL/Уровни изоляции проблемы связанные с ними.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Вопросы для подготовки"
+              "title": "Структура Уровни изоляции проблемы связанные с ними"
             }
           }
         ],
@@ -170,6 +169,10 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
+    "Без названия 2.base",
+    "SQL/Уровни изоляции проблемы связанные с ними.md",
+    "Без названия 1.base",
+    "Вопросы для подготовки.md",
     "Проектирование/CAP теорема.md",
     "Rest API/Идемпотентность запросов.md",
     "Rest API/REST API.md",
@@ -181,7 +184,6 @@
     "Hibernate/Hibernate cache.md",
     "Hibernate/Состоянии Entity в hibernate.md",
     "kubernetes/Проперть для дебага.md",
-    "Вопросы для подготовки.md",
     "Hibernate/Наследование.md",
     "Maven/Общее про Мавен.md",
     "Maven/scope зависимостей в Maven.md",
@@ -199,8 +201,6 @@
     "GraphQL/mzSKICa2KKmOlLuQVm46c5wJj0M9fr9nPsHk6UcEvUxzmw7IkBkWpTbZrGYA1-vnjJqzAqvK4rlWJTEqhvWyTN09t8PvwUpiFfQTTQM22ETPFI15l4qPQEgiDtYnmKUaQeQa9yUuQ6PMaW2y3fcDB_KZ79kqWsiH0kw-7shMhy6PkACl",
     "GraphQL/light-v2.css",
     "GraphQL/js",
-    "GraphQL/host.js",
-    "GraphQL/gallery.027d14e6.css",
     "GraphQL/fb6ef6713c7ac645ad9668af3b7aa161.png",
     "GraphQL/dda0001eb05bb41f4a33c1d8d44410f9.png",
     "GraphQL/dda0001eb05bb41f4a33c1d8d44410f9(1).png",
@@ -214,8 +214,6 @@
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "Java/конфигурация/Конфигурация для запуска maven команд.md",
     "Java/ООП и SOLID.md",
-    "Java/SOLID.md",
-    "Spring/Spring MVC создание веб-сайтов и RESTful сервисов.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
