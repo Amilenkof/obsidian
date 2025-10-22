@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Уровни изоляции проблемы связанные с ними.md",
+                "file": "kubernetes/Проперть для дебага.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни изоляции проблемы связанные с ними"
+              "title": "Проперть для дебага"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Уровни изоляции проблемы связанные с ними.md",
+                "file": "kubernetes/Проперть для дебага.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Уровни изоляции проблемы связанные с ними"
+              "title": "Структура Проперть для дебага"
             }
           }
         ],
@@ -169,8 +169,8 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
-    "Без названия 2.base",
     "SQL/Уровни изоляции проблемы связанные с ними.md",
+    "Без названия 2.base",
     "Без названия 1.base",
     "Вопросы для подготовки.md",
     "Проектирование/CAP теорема.md",
