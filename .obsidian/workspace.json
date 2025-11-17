@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/Проперть для дебага.md",
+                "file": "Запросы бд/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проперть для дебага"
+              "title": "Docker"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kafka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/Проперть для дебага.md",
+                "file": "Запросы бд/Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Проперть для дебага"
+              "title": "Структура Docker"
             }
           }
         ],
@@ -169,6 +170,11 @@
   },
   "active": "fff948c91c5faab7",
   "lastOpenFiles": [
+    "Kafka/Очень коротко про Кафку.md",
+    "Kafka/Команды кафка.md",
+    "Kafka/Video.md",
+    "Docker/Video.md",
+    "kubernetes/Проперть для дебага.md",
     "SQL/Уровни изоляции проблемы связанные с ними.md",
     "Без названия 2.base",
     "Без названия 1.base",
@@ -183,7 +189,6 @@
     "Hibernate/LazyInitialization Exception.md",
     "Hibernate/Hibernate cache.md",
     "Hibernate/Состоянии Entity в hibernate.md",
-    "kubernetes/Проперть для дебага.md",
     "Hibernate/Наследование.md",
     "Maven/Общее про Мавен.md",
     "Maven/scope зависимостей в Maven.md",
@@ -209,11 +214,8 @@
     "GraphQL/a890fdc56389815233584327e76011c1.png",
     "GraphQL/351c2cd0454796adab40bb11c60d4a49.png",
     "kubernetes/Команды KubeCtl.md",
-    "Kafka/Очень коротко про Кафку.md",
     "Java/StreamAPI/Без названия.md",
     "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
-    "Java/конфигурация/Конфигурация для запуска maven команд.md",
-    "Java/ООП и SOLID.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
