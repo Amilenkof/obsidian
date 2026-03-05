@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Docker"
             }
-          },
-          {
-            "id": "b802a192c97ab264",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kafka",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Запросы бд/Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Docker"
             }
           }
         ],
@@ -180,12 +167,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b802a192c97ab264",
+  "active": "fff948c91c5faab7",
   "lastOpenFiles": [
+    "2025-10-14.md",
+    "Docker/Video.md",
     "Kafka/Очень коротко про Кафку.md",
     "Kafka/Команды кафка.md",
     "Kafka/Video.md",
-    "Docker/Video.md",
     "kubernetes/Проперть для дебага.md",
     "SQL/Уровни изоляции проблемы связанные с ними.md",
     "Без названия 2.base",
@@ -227,7 +215,6 @@
     "GraphQL/351c2cd0454796adab40bb11c60d4a49.png",
     "kubernetes/Команды KubeCtl.md",
     "Java/StreamAPI/Без названия.md",
-    "Java/StreamAPI/Лямбды-анонимные классы-функциональные интерфейсы.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
