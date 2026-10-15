@@ -25,12 +25,14 @@
             "id": "c2c12d66c2fcf98b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "kubernetes/Команды KubeCtl.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
+              "icon": "lucide-file",
+              "title": "Команды KubeCtl"
             }
           }
         ],
@@ -153,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "kubernetes/Команды KubeCtl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Команды KubeCtl"
             }
           }
         ],
@@ -181,12 +184,14 @@
   },
   "active": "c2c12d66c2fcf98b",
   "lastOpenFiles": [
+    "kubernetes/Проперть для дебага.md",
+    "GraphQL/Статья хабр.md",
+    "BPMN/Ссылка на документацию.md",
     "2025-10-14.md",
     "Docker/Video.md",
     "Kafka/Очень коротко про Кафку.md",
     "Kafka/Команды кафка.md",
     "Kafka/Video.md",
-    "kubernetes/Проперть для дебага.md",
     "SQL/Уровни изоляции проблемы связанные с ними.md",
     "Без названия 2.base",
     "Без названия 1.base",
@@ -205,7 +210,6 @@
     "Maven/Общее про Мавен.md",
     "Maven/scope зависимостей в Maven.md",
     "Maven/BOM.md",
-    "GraphQL/Статья хабр.md",
     "GraphQL/0e1130e559ee0ba56a178aa881e552a8.png",
     "GraphQL",
     "GraphQL/статья.md",
@@ -226,7 +230,6 @@
     "GraphQL/a890fdc56389815233584327e76011c1.png",
     "GraphQL/351c2cd0454796adab40bb11c60d4a49.png",
     "kubernetes/Команды KubeCtl.md",
-    "Java/StreamAPI/Без названия.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
